@@ -61,13 +61,21 @@ it needs an internet connection, and it forgets when you clear cookies.
 |---|---|
 | ![Home](docs/screenshots/home.png) | ![Topic popup](docs/screenshots/topic-popup.png) |
 
-| Active-recall flashcards | Analytics dashboard |
+| Spaced-repetition flashcards | Study notes + Pomodoro timer |
 |---|---|
-| ![Review](docs/screenshots/review-queue.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+| ![Review](docs/screenshots/review-queue.png) | ![Notes and timer](docs/screenshots/notes-timer.png) |
 
-| Full-text search (Ctrl+K) | Daily challenge board |
+| Career role gap analysis | Analytics dashboard |
 |---|---|
-| ![Search](docs/screenshots/search.png) | ![Dailys](docs/screenshots/dailys.png) |
+| ![Career gap](docs/screenshots/career-gap.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+
+| Daily challenge board | In-browser code sandbox |
+|---|---|
+| ![Dailys](docs/screenshots/dailys.png) | ![Code sandbox](docs/screenshots/code-sandbox.png) |
+
+| Full-text search (Ctrl+K) | GitHub badge & Anki export |
+|---|---|
+| ![Search](docs/screenshots/search.png) | ![Badge & Anki](docs/screenshots/badge-anki.png) |
 
 Also ships with **light, paper, dark and midnight themes** (see `docs/screenshots/home-light.png`).
 
@@ -77,7 +85,8 @@ Also ships with **light, paper, dark and midnight themes** (see `docs/screenshot
 - **All 97 official roadmaps** — Frontend, Backend, AI Engineer, DevOps, Rust, System Design, …
 - **Official renderer fidelity** — the same hand-drawn Balsamiq canvas, byte-exact
   node and edge geometry, guarded in CI by `scripts/verify_edges.py`.
-- **Topic content & resources** — official markdown guides and curated links per topic, read offline.
+- **Topic content & resources** — official markdown guides, curated links and video
+  explanations per topic, read offline.
 
 ### Consistency engine
 - **Progress tracking** — mark any topic *Learning / Done / Skip*; per-roadmap and
@@ -85,14 +94,23 @@ Also ships with **light, paper, dark and midnight themes** (see `docs/screenshot
 - **Spaced repetition** — marking a topic done schedules it onto a Leitner-style
   1/3/7/14/30/90-day review ladder. Active-recall flashcards grade themselves
   into long-term memory; a retention ring shows what's actually sticking.
+- **Study timer & focus** — per-topic stopwatch or Pomodoro timer with ambient
+  focus sounds (rain, waves, alpha) generated in-browser.
+- **Notes** — markdown notes per topic (checklists, math, code blocks) with
+  live preview, stored in `state.json`.
 - **Streaks & heatmap** — daily goal, current/longest streak, milestones.
-- **Dailys board** — a habit board that can pull LeetCode's Problem of the Day,
-  quests, Project Euler and study plans, or your own custom dailies.
+- **Dailys board** — a habit board that can pull LeetCode's Problem of the Day
+  (with a video-explanation link per problem), quests, Project Euler and study
+  plans, or your own custom dailies.
 
 ### Career analytics
 - **Dashboard** — study velocity, completion forecasting, what's due for review today.
-- **Role gap analysis** — pick a target role, see exactly which topics you're missing.
-- **Time tracking** — optional per-topic time logs.
+- **Role gap analysis** — pick a target role (Senior Frontend, Backend Architect,
+  DevOps, Fullstack, AI Engineer…) and see exactly which competencies you're
+  missing, each linked to the roadmap that teaches it.
+- **Time tracking** — per-topic time logs feeding the velocity forecast.
+- **In-browser sandbox** — practice snippets in an isolated Web Worker while
+  you study (Ctrl+Enter to run).
 
 ### Your data, your machine
 - **One-file state** — everything personal lives in `data/state.json`; updates never touch it.
