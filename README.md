@@ -61,9 +61,13 @@ it needs an internet connection, and it forgets when you clear cookies.
 |---|---|
 | ![Home](docs/screenshots/home.png) | ![Topic popup](docs/screenshots/topic-popup.png) |
 
-| Spaced-repetition flashcards | Study notes + Pomodoro timer |
+| Zoom into the canvas — hand-drawn nodes, statuses & curves | Learning path — your next topics highlighted |
 |---|---|
-| ![Review](docs/screenshots/review-queue.png) | ![Notes and timer](docs/screenshots/notes-timer.png) |
+| ![Canvas zoom](docs/screenshots/canvas-zoom.png) | ![Learning path](docs/screenshots/learning-path.png) |
+
+| Spaced-repetition flashcards | Study notes + Pomodoro focus timer with ambient sound |
+|---|---|
+| ![Review](docs/screenshots/review-queue.png) | ![Pomodoro](docs/screenshots/pomodoro.png) |
 
 | Career role gap analysis | Analytics dashboard |
 |---|---|
@@ -73,9 +77,13 @@ it needs an internet connection, and it forgets when you clear cookies.
 |---|---|
 | ![Dailys](docs/screenshots/dailys.png) | ![Code sandbox](docs/screenshots/code-sandbox.png) |
 
-| Full-text search (Ctrl+K) | GitHub badge & Anki export |
+| Full-text search (Ctrl+K) | Keyboard shortcuts |
 |---|---|
-| ![Search](docs/screenshots/search.png) | ![Badge & Anki](docs/screenshots/badge-anki.png) |
+| ![Search](docs/screenshots/search.png) | ![Shortcuts](docs/screenshots/shortcuts.png) |
+
+| GitHub badge & Anki export | Optional integrations, all off by default |
+|---|---|
+| ![Badge & Anki](docs/screenshots/badge-anki.png) | ![Connectors](docs/screenshots/connectors.png) |
 
 Also ships with **light, paper, dark and midnight themes** (see `docs/screenshots/home-light.png`).
 
@@ -87,6 +95,10 @@ Also ships with **light, paper, dark and midnight themes** (see `docs/screenshot
   node and edge geometry, guarded in CI by `scripts/verify_edges.py`.
 - **Topic content & resources** — official markdown guides, curated links and video
   explanations per topic, read offline.
+- **Learning path mode** — one click emphasizes the topics on your current path
+  through a roadmap.
+- **Keyboard-driven** — `?` shows every shortcut: `g` then `h` for home, `g` then `d`
+  for dashboard, `t` to cycle themes, `r` for review, `Ctrl+K` for search.
 
 ### Consistency engine
 - **Progress tracking** — mark any topic *Learning / Done / Skip*; per-roadmap and
