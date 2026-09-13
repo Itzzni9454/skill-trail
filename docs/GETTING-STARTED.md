@@ -22,8 +22,8 @@ No prior experience with Node.js is assumed.
 ## Step 1 — Get the code
 
 ```bash
-git clone https://github.com/OWNER/REPO.git
-cd REPO
+git clone https://github.com/Luv-Goel/skill-trail.git
+cd skill-trail
 ```
 
 ## Step 2 — Download the roadmap content
@@ -172,5 +172,5 @@ your browser may be holding an old cached copy.
 Ensure Node.js ≥ 18 (`node --version`), delete the `server/node_modules` and
 `app/node_modules` folders, and run `npm run setup` again.
 
-Still stuck? [Open an issue](https://github.com/OWNER/REPO/issues) with the exact
+Still stuck? [Open an issue](https://github.com/Luv-Goel/skill-trail/issues) with the exact
 command you ran and its output.

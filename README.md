@@ -10,7 +10,7 @@ The exact [roadmap.sh](https://roadmap.sh) developer roadmaps — pixel-identica
 progress tracking, spaced repetition, career analytics and daily challenges.
 No account. No tracking. No internet required after setup.
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/Luv-Goel/skill-trail/actions/workflows/ci.yml/badge.svg)](https://github.com/Luv-Goel/skill-trail/actions/workflows/ci.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](CONTRIBUTING.md)
@@ -151,8 +151,8 @@ You need **Node.js ≥ 18** (and `git`, which you already have if you're cloning
 Python 3 is only needed for the optional fidelity check.
 
 ```bash
-git clone https://github.com/OWNER/REPO.git
-cd REPO
+git clone https://github.com/Luv-Goel/skill-trail.git
+cd skill-trail
 
 npm run bootstrap   # one-time: download the roadmaps + topic content (see note)
 npm run setup       # one-time: install dependencies
