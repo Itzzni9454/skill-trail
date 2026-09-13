@@ -1,0 +1,14 @@
+{
+  "name": "roadmap-offline-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local API for the offline roadmap.sh clone",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

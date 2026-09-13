@@ -1,0 +1,1190 @@
+@import url('/fonts/fonts.css');
+@import url('/fonts/ui-fonts.css');
+@import "tailwindcss";
+
+/* ============================================================================
+   Skill Trail — design tokens
+   ----------------------------------------------------------------------------
+   Four themes derived from one semantic token layer, all in oklch so lightness
+   steps are perceptually even across hues.
+
+   IMPORTANT: Balsamiq Sans is the fidelity contract for the SVG roadmap canvas.
+   It is applied inline by RoadmapSVG / MindmapView / UniverseView and must never
+   be inherited from `body`. The chrome uses Geist. See .impeccable.md.
+   ========================================================================== */
+
+:root {
+  /* ---------- type ---------- */
+  --font-ui: 'Geist', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-code: 'Geist Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+
+  /* ---------- motion ---------- */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 120ms;
+  --dur: 180ms;
+  --dur-slow: 260ms;
+
+  /* ---------- geometry ----------
+     One 5-step radius scale. Every radius in the app resolves from here:
+     --r-xs (swatches, status dots) / --r-sm (chips) / --r (controls, tiles)
+     / --r-lg (cards, panels) / --r-xl (modals, hero surfaces). */
+  --r-xs: 3px;
+  --r-sm: 6px;
+  --r: 9px;
+  --r-lg: 13px;
+  --r-xl: 18px;
+}
+
+/* ---------------------------------------------------------------------------
+   Theme: light — cool, crisp, default
+   ------------------------------------------------------------------------- */
+[data-theme="light"] {
+  --theme-bg: oklch(0.983 0.004 165);
+  --theme-surface: oklch(0.998 0.002 165);
+  --theme-surface-2: oklch(0.962 0.006 165);
+  --theme-surface-soft: oklch(0.998 0.002 165 / 0.82);
+  --theme-border: oklch(0.921 0.007 165);
+  --theme-border-strong: oklch(0.862 0.010 165);
+  --theme-text: oklch(0.205 0.014 168);
+  --theme-text-muted: oklch(0.508 0.013 168);
+  --theme-text-faint: oklch(0.648 0.011 168);
+  --theme-hover-bg: oklch(0.951 0.008 165);
+  --theme-active-bg: oklch(0.921 0.011 165);
+  /* L 0.575 -> 0.509: two AA floors pull the same direction. White label text
+     on a primary-filled button measured 4.00:1 at 0.575, and the state ink on
+     its own soft fill (every `bg-done-soft text-done` chip) measured 3.95:1 at
+     0.545. Both need 4.5:1 for 13px labels, so the ink is deeper still. Hue and
+     chroma are untouched; `done` tracks `primary` to stay identical. */
+  --theme-primary: oklch(0.509 0.130 163);
+  --theme-primary-soft: oklch(0.944 0.046 163);
+  --theme-primary-ink: oklch(0.995 0.004 165);
+  --theme-accent: oklch(0.605 0.118 205);
+  --theme-accent-soft: oklch(0.945 0.040 205);
+  --theme-done: oklch(0.509 0.130 163);
+  --theme-done-soft: oklch(0.944 0.046 163);
+  --theme-learning: oklch(0.525 0.135 250);
+  --theme-learning-soft: oklch(0.945 0.042 250);
+  --theme-skipped: oklch(0.525 0.012 168);
+  --theme-skipped-soft: oklch(0.945 0.006 168);
+  --theme-due: oklch(0.533 0.135 68);
+  --theme-due-soft: oklch(0.952 0.048 68);
+  /* Alerts & annotations. These were referenced by components long before they
+     were defined, so every error banner, "Hard" marker and custom badge rendered
+     with no colour at all. Defined here for real. */
+  --theme-danger: oklch(0.545 0.190 27);
+  --theme-danger-soft: oklch(0.951 0.032 27);
+  --theme-note: oklch(0.530 0.170 305);
+  --theme-note-soft: oklch(0.949 0.032 305);
+  --theme-warning: oklch(0.536 0.132 56);
+  --theme-warning-soft: oklch(0.956 0.046 56);
+  /* Text placed on a primary-filled surface. */
+  --theme-on-primary: var(--theme-primary-ink);
+  /* RPG meter tokens. The Habitica surfaces are the one deliberately loud
+     exception in the app, but they were using absolute Tailwind palette
+     classes (bg-purple-600, text-rose-500), which render identically in every
+     theme — so the gamified panel ignored the theme system entirely. These
+     keep the gamified identity while making each hue theme-aware. */
+  --theme-hp: oklch(0.578 0.202 22);
+  --theme-mp: oklch(0.552 0.162 255);
+  --theme-exp: oklch(0.652 0.142 70);
+  --theme-gold: oklch(0.688 0.138 85);
+  --theme-rpg: oklch(0.552 0.196 300);
+  --theme-scrim: oklch(0.15 0.01 250 / 0.42);
+  --theme-scrim-shadow: 0 24px 60px -12px oklch(0.15 0.01 250 / 0.34);
+  --theme-shadow: 0 1px 2px oklch(0.205 0.014 168 / 0.06), 0 4px 16px oklch(0.205 0.014 168 / 0.05);
+  color-scheme: light;
+}
+
+/* ---------------------------------------------------------------------------
+   Theme: paper — warm editorial, ink on cream
+   ------------------------------------------------------------------------- */
+[data-theme="paper"] {
+  --theme-bg: oklch(0.968 0.013 84);
+  --theme-surface: oklch(0.989 0.008 84);
+  --theme-surface-2: oklch(0.944 0.017 84);
+  --theme-surface-soft: oklch(0.989 0.008 84 / 0.84);
+  --theme-border: oklch(0.893 0.021 84);
+  --theme-border-strong: oklch(0.828 0.027 84);
+  --theme-text: oklch(0.243 0.019 68);
+  --theme-text-muted: oklch(0.498 0.024 72);
+  --theme-text-faint: oklch(0.634 0.026 76);
+  --theme-hover-bg: oklch(0.934 0.021 84);
+  --theme-active-bg: oklch(0.898 0.027 84);
+  --theme-primary: oklch(0.502 0.108 158);
+  --theme-primary-soft: oklch(0.925 0.042 158);
+  --theme-primary-ink: oklch(0.992 0.006 84);
+  --theme-accent: oklch(0.552 0.112 42);
+  --theme-accent-soft: oklch(0.930 0.045 42);
+  --theme-done: oklch(0.502 0.108 158);
+  --theme-done-soft: oklch(0.925 0.042 158);
+  --theme-learning: oklch(0.512 0.115 252);
+  --theme-learning-soft: oklch(0.930 0.038 252);
+  --theme-skipped: oklch(0.516 0.016 72);
+  --theme-skipped-soft: oklch(0.930 0.012 84);
+  --theme-due: oklch(0.524 0.128 62);
+  --theme-due-soft: oklch(0.936 0.048 62);
+  --theme-danger: oklch(0.532 0.180 28);
+  --theme-danger-soft: oklch(0.936 0.036 28);
+  --theme-note: oklch(0.515 0.158 308);
+  --theme-note-soft: oklch(0.935 0.036 308);
+  --theme-warning: oklch(0.526 0.126 54);
+  --theme-warning-soft: oklch(0.940 0.050 54);
+  --theme-on-primary: var(--theme-primary-ink);
+  --theme-hp: oklch(0.556 0.192 26);
+  --theme-mp: oklch(0.528 0.156 256);
+  --theme-exp: oklch(0.624 0.136 66);
+  --theme-gold: oklch(0.664 0.132 82);
+  --theme-rpg: oklch(0.528 0.188 302);
+  --theme-scrim: oklch(0.18 0.02 68 / 0.42);
+  --theme-scrim-shadow: 0 24px 60px -12px oklch(0.18 0.02 68 / 0.34);
+  --theme-shadow: 0 1px 2px oklch(0.243 0.019 68 / 0.07), 0 4px 16px oklch(0.243 0.019 68 / 0.05);
+  color-scheme: light;
+}
+
+/* ---------------------------------------------------------------------------
+   Theme: dark — neutral deep grey (never pure black)
+   ------------------------------------------------------------------------- */
+[data-theme="dark"] {
+  --theme-bg: oklch(0.184 0.006 252);
+  --theme-surface: oklch(0.226 0.007 252);
+  --theme-surface-2: oklch(0.268 0.008 252);
+  --theme-surface-soft: oklch(0.226 0.007 252 / 0.86);
+  --theme-border: oklch(0.308 0.009 252);
+  --theme-border-strong: oklch(0.392 0.011 252);
+  --theme-text: oklch(0.946 0.005 252);
+  --theme-text-muted: oklch(0.722 0.010 252);
+  --theme-text-faint: oklch(0.576 0.010 252);
+  --theme-hover-bg: oklch(0.258 0.008 252);
+  --theme-active-bg: oklch(0.302 0.010 252);
+  --theme-primary: oklch(0.735 0.142 163);
+  --theme-primary-soft: oklch(0.322 0.055 163);
+  --theme-primary-ink: oklch(0.168 0.024 163);
+  --theme-accent: oklch(0.735 0.108 205);
+  --theme-accent-soft: oklch(0.322 0.042 205);
+  --theme-done: oklch(0.735 0.142 163);
+  --theme-done-soft: oklch(0.322 0.055 163);
+  --theme-learning: oklch(0.715 0.130 250);
+  --theme-learning-soft: oklch(0.318 0.052 250);
+  --theme-skipped: oklch(0.655 0.010 252);
+  --theme-skipped-soft: oklch(0.282 0.008 252);
+  --theme-due: oklch(0.785 0.135 70);
+  --theme-due-soft: oklch(0.330 0.052 70);
+  --theme-danger: oklch(0.700 0.165 25);
+  --theme-danger-soft: oklch(0.315 0.070 25);
+  --theme-note: oklch(0.735 0.145 305);
+  --theme-note-soft: oklch(0.318 0.060 305);
+  --theme-warning: oklch(0.795 0.135 62);
+  --theme-warning-soft: oklch(0.330 0.055 62);
+  --theme-on-primary: var(--theme-primary-ink);
+  --theme-hp: oklch(0.718 0.172 22);
+  --theme-mp: oklch(0.738 0.132 255);
+  --theme-exp: oklch(0.802 0.132 70);
+  --theme-gold: oklch(0.828 0.128 85);
+  --theme-rpg: oklch(0.742 0.162 300);
+  --theme-scrim: oklch(0.09 0.012 252 / 0.62);
+  --theme-scrim-shadow: 0 24px 60px -12px oklch(0.05 0.01 252 / 0.6);
+  --theme-shadow: 0 1px 2px oklch(0.12 0.01 252 / 0.5), 0 4px 16px oklch(0.12 0.01 252 / 0.35);
+  color-scheme: dark;
+}
+
+/* ---------------------------------------------------------------------------
+   Theme: midnight — blue-black, higher contrast
+   ------------------------------------------------------------------------- */
+[data-theme="midnight"] {
+  --theme-bg: oklch(0.156 0.023 262);
+  --theme-surface: oklch(0.200 0.025 262);
+  --theme-surface-2: oklch(0.247 0.027 262);
+  --theme-surface-soft: oklch(0.200 0.025 262 / 0.86);
+  --theme-border: oklch(0.288 0.029 262);
+  --theme-border-strong: oklch(0.368 0.031 262);
+  --theme-text: oklch(0.956 0.008 252);
+  --theme-text-muted: oklch(0.738 0.016 256);
+  --theme-text-faint: oklch(0.588 0.018 256);
+  --theme-hover-bg: oklch(0.238 0.027 262);
+  --theme-active-bg: oklch(0.282 0.029 262);
+  --theme-primary: oklch(0.782 0.148 165);
+  --theme-primary-soft: oklch(0.334 0.062 165);
+  --theme-primary-ink: oklch(0.146 0.024 165);
+  --theme-accent: oklch(0.772 0.112 208);
+  --theme-accent-soft: oklch(0.332 0.048 208);
+  --theme-done: oklch(0.782 0.148 165);
+  --theme-done-soft: oklch(0.334 0.062 165);
+  --theme-learning: oklch(0.752 0.128 252);
+  --theme-learning-soft: oklch(0.330 0.056 252);
+  --theme-skipped: oklch(0.642 0.014 256);
+  --theme-skipped-soft: oklch(0.266 0.012 262);
+  --theme-due: oklch(0.812 0.132 72);
+  --theme-due-soft: oklch(0.342 0.054 72);
+  --theme-danger: oklch(0.720 0.160 22);
+  --theme-danger-soft: oklch(0.320 0.072 22);
+  --theme-note: oklch(0.755 0.140 302);
+  --theme-note-soft: oklch(0.325 0.062 302);
+  --theme-warning: oklch(0.815 0.130 66);
+  --theme-warning-soft: oklch(0.338 0.056 66);
+  --theme-on-primary: var(--theme-primary-ink);
+  --theme-hp: oklch(0.738 0.168 20);
+  --theme-mp: oklch(0.758 0.128 257);
+  --theme-exp: oklch(0.822 0.128 68);
+  --theme-gold: oklch(0.848 0.124 84);
+  --theme-rpg: oklch(0.762 0.158 302);
+  --theme-scrim: oklch(0.07 0.02 262 / 0.66);
+  --theme-scrim-shadow: 0 24px 60px -12px oklch(0.04 0.015 262 / 0.62);
+  --theme-shadow: 0 1px 2px oklch(0.10 0.02 262 / 0.55), 0 4px 16px oklch(0.10 0.02 262 / 0.4);
+  color-scheme: dark;
+}
+
+/* ---------------------------------------------------------------------------
+   Legacy neutral ramp — derived from the active theme so any remaining
+   `--theme-slate-*` consumer stays theme-aware instead of hard-coding grey.
+   ------------------------------------------------------------------------- */
+:root {
+  --theme-slate-900: var(--theme-text);
+  --theme-slate-800: color-mix(in oklab, var(--theme-text) 86%, var(--theme-bg));
+  --theme-slate-700: color-mix(in oklab, var(--theme-text) 72%, var(--theme-bg));
+  --theme-slate-600: var(--theme-text-muted);
+  --theme-slate-500: color-mix(in oklab, var(--theme-text-muted) 78%, var(--theme-bg));
+  --theme-slate-400: var(--theme-text-faint);
+  --theme-slate-300: var(--theme-border-strong);
+  --theme-slate-200: var(--theme-border);
+  --theme-slate-100: var(--theme-surface-2);
+  --theme-slate-50: var(--theme-bg);
+}
+
+/* ============================================================================
+   Tailwind theme bridge
+   Exposes the semantic tokens as real Tailwind utilities:
+     bg-page bg-surface bg-raised bg-accent bg-done …
+     text-ink text-ink-muted text-ink-faint text-accent …
+     border-line border-line-strong
+   so components stop hard-coding slate/emerald/blue and start following the theme.
+   ========================================================================== */
+@theme {
+  --font-sans: var(--font-ui);
+  --font-mono: var(--font-code);
+
+  /* Re-point Tailwind's radius scale at the four design tokens, so `rounded-md`
+     / `lg` / `xl` / `2xl` resolve from the same scale as everything else
+     instead of Tailwind's own 4/6/8/12/16px ladder. Without this the app had
+     two parallel radius systems that disagreed by 1–6px on ~158 elements.
+
+     Movement is deliberately kept to ≤2px so nothing re-flows:
+       rounded-sm   4px -> 6px   (--r-sm)   1 use
+       rounded-md   6px -> 6px   (--r-sm)   unchanged
+       rounded-lg   8px -> 9px   (--r)      +1px, 65 uses
+       rounded-xl  12px -> 13px  (--r-lg)   +1px, 51 uses
+       rounded-2xl 16px -> 18px  (--r-xl)   +2px, 28 uses
+     `rounded-full` (pills, 107 uses) and `rounded-3xl` are left alone. */
+  --radius-xs: var(--r-xs);
+  --radius-sm: var(--r-sm);
+  --radius-md: var(--r-sm);
+  --radius-lg: var(--r);
+  --radius-xl: var(--r-lg);
+  --radius-2xl: var(--r-xl);
+
+  --color-page: var(--theme-bg);
+  --color-surface: var(--theme-surface);
+  --color-raised: var(--theme-surface-2);
+  --color-hover: var(--theme-hover-bg);
+  --color-active: var(--theme-active-bg);
+
+  --color-line: var(--theme-border);
+  --color-line-strong: var(--theme-border-strong);
+
+  --color-ink: var(--theme-text);
+  --color-ink-muted: var(--theme-text-muted);
+  --color-ink-faint: var(--theme-text-faint);
+  /* Alias: components across the app write `text-muted`, which resolved to
+     nothing until now — muted copy was rendering at full body strength and the
+     hierarchy collapsed. Keep the alias so both spellings work. */
+  --color-muted: var(--theme-text-muted);
+
+  --color-accent: var(--theme-primary);
+  --color-accent-soft: var(--theme-primary-soft);
+  --color-accent-ink: var(--theme-primary-ink);
+
+  --color-done: var(--theme-done);
+  --color-done-soft: var(--theme-done-soft);
+  --color-learning: var(--theme-learning);
+  --color-learning-soft: var(--theme-learning-soft);
+  --color-skipped: var(--theme-skipped);
+  --color-skipped-soft: var(--theme-skipped-soft);
+  --color-due: var(--theme-due);
+  --color-due-soft: var(--theme-due-soft);
+
+  --color-danger: var(--theme-danger);
+  --color-danger-soft: var(--theme-danger-soft);
+  --color-note: var(--theme-note);
+  --color-note-soft: var(--theme-note-soft);
+  --color-warning: var(--theme-warning);
+  --color-warning-soft: var(--theme-warning-soft);
+
+  /* RPG meters (Habitica surfaces — the deliberate loud exception). */
+  --color-hp: var(--theme-hp);
+  --color-mp: var(--theme-mp);
+  --color-exp: var(--theme-exp);
+  --color-gold: var(--theme-gold);
+  --color-rpg: var(--theme-rpg);
+}
+
+/* ============================================================================
+   Base
+   ========================================================================== */
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  /* Geist for the chrome. Balsamiq is applied inline by the SVG canvases and
+     must not be inherited — that is the fidelity contract. */
+  font-family: var(--font-ui);
+  font-feature-settings: 'cv11' 1, 'ss01' 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--theme-bg);
+  color: var(--theme-text);
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+/* Keep SVG text crisp and unselectable.
+   The official roadmap.sh renderer applies grayscale antialiasing to node
+   text (-webkit-font-smoothing: antialiased + text-rendering: optimizeSpeed);
+   without it Chrome's LCD subpixel AA makes text visibly different. */
+svg text,
+svg tspan {
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeSpeed;
+}
+
+::selection {
+  background: var(--theme-primary-soft);
+  color: var(--theme-text);
+}
+
+/* Visible focus rings via outline (never box-shadow) so they survive on any
+   surface and never get clipped by overflow.
+
+   `!important` is load-bearing. Tailwind's `focus-visible:outline-none`
+   compiles to `.focus-visible\:outline-none:focus-visible` — specificity
+   (0,2,0) — which beats the `:where()` wrapper's (0,0,0). Since that utility is
+   applied on ~50 controls across the app, the ring was being silently erased
+   everywhere and keyboard users had no focus indicator at all. `!important`
+   wins regardless of specificity; it is safe here because `:focus-visible`
+   only matches for keyboard interaction, so pointer users see nothing.
+
+   Opt a control out deliberately with `.no-focus-ring`. */
+:where(a, button, [role='button'], [role='tab'], [role='menuitem'],
+      input, select, textarea, summary, [tabindex]):focus-visible {
+  outline: 2px solid var(--theme-primary) !important;
+  outline-offset: 2px;
+  border-radius: var(--r-sm);
+}
+
+/* Explicit escape hatch — must be spelled out per element to beat the rule
+   above, and is only ever used where a component draws its own focus ring. */
+.no-focus-ring:focus-visible {
+  outline: none !important;
+}
+
+/* Thin, theme-aware scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--theme-border-strong) transparent;
+}
+*::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--theme-border-strong);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--theme-text-faint);
+  background-clip: content-box;
+}
+
+/* ============================================================================
+   Typography scale — fluid, tight tracking on display sizes
+   ========================================================================== */
+
+.t-display {
+  font-size: clamp(1.75rem, 1.15rem + 2.4vw, 2.6rem);
+  line-height: 1.05;
+  letter-spacing: -0.033em;
+  font-weight: 600;
+}
+
+.t-title {
+  font-size: clamp(1.2rem, 1.08rem + 0.5vw, 1.5rem);
+  line-height: 1.16;
+  letter-spacing: -0.022em;
+  font-weight: 600;
+}
+
+.t-heading {
+  font-size: 1.0625rem;
+  line-height: 1.3;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+}
+
+.t-body {
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.t-small {
+  font-size: 0.8125rem;
+  line-height: 1.5;
+}
+
+.t-micro {
+  font-size: 0.6875rem;
+  line-height: 1.45;
+}
+
+/* Uppercase mono micro-label — the workhorse for section eyebrows and stats */
+.t-label {
+  font-family: var(--font-code);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+}
+
+/* Tabular figures — every number in the UI should use this */
+.tnum {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum' 1;
+}
+
+.t-mono {
+  font-family: var(--font-code);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============================================================================
+   Surfaces & primitives
+   ========================================================================== */
+
+.surface {
+  background: var(--theme-surface);
+  border: 1px solid var(--theme-border);
+  border-radius: var(--r-lg);
+}
+
+.surface-raised {
+  background: var(--theme-surface);
+  border: 1px solid var(--theme-border);
+  border-radius: var(--r-lg);
+  box-shadow: var(--theme-shadow);
+}
+
+.hairline {
+  border-color: var(--theme-border);
+}
+
+/* Interactive row — hover without the card-everything pattern */
+.row-hover {
+  transition: background-color var(--dur-fast) var(--ease-out);
+}
+.row-hover:hover {
+  background: var(--theme-hover-bg);
+}
+
+/* ============================================================================
+   Motion — state transitions only, GPU properties only
+   ========================================================================== */
+
+@keyframes fade-rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.anim-rise {
+  animation: fade-rise var(--dur-slow) var(--ease-out) both;
+}
+.anim-in {
+  animation: fade-in var(--dur) var(--ease-out) both;
+}
+.anim-pop {
+  animation: scale-in var(--dur) var(--ease-out) both;
+}
+
+/* Stagger helper: set --i on the element */
+.stagger {
+  animation: fade-rise var(--dur-slow) var(--ease-out) both;
+  animation-delay: calc(var(--i, 0) * 26ms);
+}
+
+/* Toast entrance (kept from the original) */
+.toast-enter {
+  animation: fade-rise 220ms var(--ease-out);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Hide scrollbar but keep scrolling (used by horizontal nav) */
+.scrollbar-none {
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* ============================================================================
+   Loading — skeleton surfaces
+   ----------------------------------------------------------------------------
+   Before this, every async region rendered the literal words "Loading…" in a
+   centred div, which collapses the layout on arrival and tells the eye nothing
+   about what is coming. Skeletons hold the shape of the eventual content.
+   ========================================================================== */
+
+@keyframes skeleton-sweep {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--r-sm);
+  /* Derived from the text colour so it reads as "content pending" on every
+     theme without a hard-coded grey. */
+  background-color: color-mix(in oklab, var(--theme-text) 9%, var(--theme-surface));
+}
+
+.skeleton::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    color-mix(in oklab, var(--theme-surface) 70%, transparent) 50%,
+    transparent 100%
+  );
+  animation: skeleton-sweep 1.5s var(--ease-in-out) infinite;
+}
+
+/* Text-shaped skeletons get a softer radius so they read as lines of type. */
+.skeleton-line {
+  border-radius: 999px;
+  height: 0.75em;
+}
+
+/* Announce loading to assistive tech without a visible label. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ============================================================================
+   Interaction feedback
+   ========================================================================== */
+
+/* Universal press cue. Sub-pixel translate only — it must never move layout.
+   `:where()` keeps specificity at zero so any component rule still wins. */
+:where(button, [role='button'], summary, a.press):not(:disabled):active {
+  transform: translateY(0.5px);
+}
+
+/* Prominent controls opt into a firmer press. */
+.press {
+  transition:
+    transform var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) var(--ease-out),
+    border-color var(--dur-fast) var(--ease-out),
+    color var(--dur-fast) var(--ease-out),
+    box-shadow var(--dur-fast) var(--ease-out);
+}
+.press:active:not(:disabled) {
+  transform: translateY(0.5px) scale(0.975);
+}
+
+/* Fields: the global outline can be clipped by a tight container, so pair it
+   with a border shift. `!important` is required because the inputs set their
+   border inline; it is scoped to the focus state only. */
+:where(input, textarea, select):not([type='checkbox']):not([type='radio']):focus-visible {
+  border-color: var(--theme-primary) !important;
+  outline-offset: 1px;
+}
+
+/* Rows and tiles that are wholly clickable get a quiet lift on hover. */
+.lift {
+  transition:
+    transform var(--dur) var(--ease-out),
+    background-color var(--dur) var(--ease-out),
+    border-color var(--dur) var(--ease-out);
+}
+.lift:hover {
+  transform: translateY(-1px);
+  border-color: var(--theme-border-strong);
+}
+
+/* ============================================================================
+   Typographic refinement
+   ========================================================================== */
+
+h1,
+h2,
+h3,
+.t-display,
+.t-title,
+.t-heading {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+/* ============================================================================
+   Empty / error states
+   ========================================================================== */
+
+.state-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: clamp(2rem, 6vw, 4rem) 1.5rem;
+  border: 1px dashed var(--theme-border-strong);
+  border-radius: var(--r-lg);
+  background: color-mix(in oklab, var(--theme-surface) 60%, transparent);
+}
+
+.state-icon {
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  margin-bottom: 0.875rem;
+  border-radius: var(--r);
+  background: var(--theme-surface-2);
+  border: 1px solid var(--theme-border);
+  color: var(--theme-text-muted);
+}
+
+/* A state panel is a dead end unless it offers the way out. */
+.state-panel .btn {
+  margin-top: 1.25rem;
+}
+
+/* ============================================================================
+   Component layer
+   ----------------------------------------------------------------------------
+   These exist so a control is described once, not re-derived from inline
+   styles in every file. Each class owns its own hover / active / focus states,
+   which is what makes interaction feedback consistent instead of per-component.
+   Colour always comes from a token, so all four themes are covered for free.
+   ========================================================================== */
+
+/* ---------- page container ------------------------------------------------
+   One container width for the whole app. Views were previously split between
+   max-w-6xl and max-w-7xl (one view declared both), so content edges did not
+   line up when navigating. */
+.page {
+  width: 100%;
+  max-width: 72rem;
+  margin-inline: auto;
+  padding-inline: clamp(1rem, 3vw, 1.5rem);
+  padding-block: clamp(1.75rem, 4vw, 2.5rem) 4rem;
+}
+
+.page-head {
+  margin-bottom: clamp(1.5rem, 3vw, 2.25rem);
+}
+
+.page-title {
+  color: var(--theme-text);
+}
+
+.page-lede {
+  margin-top: 0.5rem;
+  max-width: 64ch;
+  color: var(--theme-text-muted);
+}
+
+/* ---------- sticky glass bar ---------------------------------------------
+   The nav, the list toolbar and the canvas toolbar all want the same
+   translucent scrim. It was copied inline into five places. */
+.bar {
+  background-color: var(--theme-surface-soft);
+  backdrop-filter: saturate(180%) blur(14px);
+  -webkit-backdrop-filter: saturate(180%) blur(14px);
+  border-color: var(--theme-border);
+}
+
+/* ---------- surfaces ---------- */
+.card {
+  background: var(--theme-surface);
+  border: 1px solid var(--theme-border);
+  border-radius: var(--r-lg);
+}
+
+.card-quiet {
+  background: color-mix(in oklab, var(--theme-surface) 62%, transparent);
+  border: 1px dashed var(--theme-border-strong);
+  border-radius: var(--r-lg);
+}
+
+.divider {
+  background: var(--theme-border);
+}
+
+/* A clickable card gets the same lift + border shift everywhere. */
+.tile {
+  background: var(--theme-surface);
+  border: 1px solid var(--theme-border);
+  border-radius: var(--r);
+  transition:
+    transform var(--dur) var(--ease-out),
+    background-color var(--dur) var(--ease-out),
+    border-color var(--dur) var(--ease-out);
+}
+.tile:hover {
+  transform: translateY(-1px);
+  border-color: var(--theme-border-strong);
+  background: var(--theme-hover-bg);
+}
+.tile:active {
+  transform: translateY(0);
+}
+
+/* ---------- buttons -------------------------------------------------------
+   Base carries the motion contract and the press cue; variants carry colour.
+   The press cue is a sub-pixel translate so it can never reflow layout. */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid transparent;
+  border-radius: var(--r);
+  cursor: pointer;
+  user-select: none;
+  transition:
+    transform var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) var(--ease-out),
+    border-color var(--dur-fast) var(--ease-out),
+    color var(--dur-fast) var(--ease-out),
+    box-shadow var(--dur-fast) var(--ease-out);
+}
+.btn:disabled,
+.btn[aria-disabled='true'] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.btn:not(:disabled):active {
+  transform: translateY(0.5px) scale(0.978);
+}
+.btn > svg {
+  flex-shrink: 0;
+}
+
+.btn-lg {
+  font-size: 0.875rem;
+  padding: 0.6rem 0.9rem;
+}
+.btn-sm {
+  font-size: 0.75rem;
+  padding: 0.375rem 0.55rem;
+  gap: 0.3rem;
+}
+.btn-xs {
+  font-size: 0.6875rem;
+  padding: 0.25rem 0.45rem;
+  gap: 0.25rem;
+  border-radius: var(--r-sm);
+}
+/* Square icon-only button. Always pair with aria-label. */
+.btn-icon {
+  padding: 0.45rem;
+  aspect-ratio: 1;
+}
+
+/* Filled — the single primary action on a surface. */
+.btn-primary {
+  background: var(--theme-primary);
+  color: var(--theme-primary-ink);
+  border-color: var(--theme-primary);
+  font-weight: 550;
+}
+.btn-primary:not(:disabled):hover {
+  background: color-mix(in oklab, var(--theme-primary) 88%, var(--theme-text));
+  border-color: color-mix(in oklab, var(--theme-primary) 88%, var(--theme-text));
+}
+.btn-primary:not(:disabled):active {
+  background: color-mix(in oklab, var(--theme-primary) 80%, var(--theme-text));
+}
+
+/* Outlined — the default control. Reads on any surface. */
+.btn-quiet {
+  background: var(--theme-surface);
+  color: var(--theme-text);
+  border-color: var(--theme-border);
+}
+.btn-quiet:not(:disabled):hover {
+  background: var(--theme-hover-bg);
+  border-color: var(--theme-border-strong);
+}
+
+/* Text-only — tertiary actions, list affordances. */
+.btn-ghost {
+  background: transparent;
+  color: var(--theme-text-muted);
+}
+.btn-ghost:not(:disabled):hover {
+  background: var(--theme-hover-bg);
+  color: var(--theme-text);
+}
+
+.btn-danger {
+  background: var(--theme-danger-soft);
+  color: var(--theme-danger);
+  border-color: color-mix(in oklab, var(--theme-danger) 42%, transparent);
+}
+.btn-danger:not(:disabled):hover {
+  background: color-mix(in oklab, var(--theme-danger) 18%, var(--theme-surface));
+  border-color: var(--theme-danger);
+}
+
+/* Toggle that stays "on" — colour is the signal, so only the active state
+   earns it. */
+.btn-on {
+  background: var(--theme-primary-soft);
+  color: var(--theme-primary);
+  border-color: var(--theme-primary);
+}
+
+/* ---------- segmented control -------------------------------------------- */
+.seg {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 2px;
+  background: var(--theme-surface-2);
+  border: 1px solid var(--theme-border);
+  border-radius: var(--r);
+}
+.seg-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.8125rem;
+  border: 1px solid transparent;
+  border-radius: var(--r-sm);
+  color: var(--theme-text-muted);
+  background: transparent;
+  cursor: pointer;
+  white-space: nowrap;
+  transition:
+    background-color var(--dur-fast) var(--ease-out),
+    color var(--dur-fast) var(--ease-out),
+    border-color var(--dur-fast) var(--ease-out);
+}
+.seg-item:hover {
+  color: var(--theme-text);
+}
+.seg-item[aria-selected='true'],
+.seg-item[data-on='true'] {
+  background: var(--theme-surface);
+  border-color: var(--theme-border);
+  color: var(--theme-text);
+  font-weight: 550;
+  box-shadow: var(--theme-shadow);
+}
+
+/* ---------- fields -------------------------------------------------------- */
+.field {
+  width: 100%;
+  font-size: 0.8125rem;
+  font-family: inherit;
+  padding: 0.45rem 0.65rem;
+  border: 1px solid var(--theme-border);
+  border-radius: var(--r);
+  background: var(--theme-surface);
+  color: var(--theme-text);
+  transition:
+    border-color var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) var(--ease-out);
+}
+.field:hover:not(:disabled) {
+  border-color: var(--theme-border-strong);
+}
+.field::placeholder {
+  color: var(--theme-text-faint);
+}
+.field:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+/* The caret should follow the accent, not the OS default. */
+.field {
+  caret-color: var(--theme-primary);
+}
+/* Icon-led search field: `.field-icon` wraps the input and positions the icon. */
+.field-wrap {
+  position: relative;
+}
+.field-wrap > svg:first-child {
+  position: absolute;
+  left: 0.7rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--theme-text-faint);
+  pointer-events: none;
+}
+.field-wrap > .field {
+  padding-left: 2.1rem;
+}
+
+/* ---------- chips ---------------------------------------------------------
+   Colour is supplied by the caller through two custom properties so a chip
+   never needs to know which token it is wearing. */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.1rem 0.4rem;
+  border-radius: var(--r-sm);
+  font-family: var(--font-code);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  background: var(--chip-bg, var(--theme-surface-2));
+  color: var(--chip-fg, var(--theme-text-muted));
+  border: 1px solid var(--chip-line, transparent);
+}
+
+/* Status dot — the one place colour is allowed to carry meaning. */
+.dot {
+  display: inline-block;
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 999px;
+  background: var(--dot, var(--theme-text-faint));
+  flex-shrink: 0;
+}
+
+/* ---------- metric strip --------------------------------------------------
+   One hairline-divided instrument panel, not five floating cards.
+
+   The hairlines are the *gap* showing the border colour through, rather than a
+   border on each cell. Per-cell borders were the original approach and they do
+   not survive wrapping: at 2 and 3 columns the last cell of every row kept a
+   dangling right edge, and the first row kept a top edge sitting against the
+   container's own border. A 1px gap renders correctly at any column count. */
+.metric-strip {
+  display: grid;
+  gap: 1px;
+  background: var(--theme-border);
+  border: 1px solid var(--theme-border);
+  border-radius: var(--r-lg);
+  overflow: hidden;
+}
+.metric {
+  padding: 0.9rem 1.1rem;
+  min-width: 0;
+  background: var(--theme-surface);
+}
+.metric-label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-code);
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--theme-text-faint);
+}
+.metric-value {
+  margin-top: 0.35rem;
+  font-family: var(--font-code);
+  font-variant-numeric: tabular-nums;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: var(--theme-text);
+}
+.metric-note {
+  margin-top: 0.15rem;
+  font-size: 0.6875rem;
+  color: var(--theme-text-faint);
+}
+
+/* ---------- progress ------------------------------------------------------ */
+.progress {
+  position: relative;
+  height: 0.25rem;
+  border-radius: 999px;
+  background: var(--theme-border);
+  overflow: hidden;
+}
+.progress > span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--progress, var(--theme-primary));
+  transition: width var(--dur-slow) var(--ease-out);
+}
+
+/* ---------- misc ---------- */
+/* Text placed on a filled accent / state surface.
+   `text-white` was hard-coded in ~30 places on primary, done, learning and RPG
+   fills. In the light themes those fills are mid-to-deep so white is right, but
+   in dark and midnight the fills are *bright*, so white text on them measured
+   under 2:1. `--theme-primary-ink` is the token that is near-white on a deep
+   fill and near-black on a bright one, so it is correct in all four themes.
+
+   Declared with `@utility` rather than as a plain class so Tailwind can attach
+   variants to it — `hover:on-accent` is needed in several places and a plain
+   class would silently generate nothing. */
+@utility on-accent {
+  color: var(--theme-primary-ink);
+}
+
+.kbd {
+  display: inline-grid;
+  place-items: center;
+  min-width: 1.35rem;
+  padding: 0.1rem 0.3rem;
+  font-family: var(--font-code);
+  font-size: 0.6875rem;
+  line-height: 1.3;
+  color: var(--theme-text-muted);
+  background: var(--theme-surface-2);
+  border: 1px solid var(--theme-border);
+  border-bottom-width: 2px;
+  border-radius: var(--r-sm);
+}
+
+.icon-tile {
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  border-radius: var(--r);
+  background: var(--theme-surface-2);
+  border: 1px solid var(--theme-border);
+  color: var(--theme-text-muted);
+}
+
+/* Section heading with an optional count on the right. */
+.section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+/* ============================================================================
+   Skeleton shapes
+   ----------------------------------------------------------------------------
+   Each helper mirrors the layout it stands in for, so the page does not jump
+   when the real content lands.
+   ========================================================================== */
+
+.skeleton-text {
+  height: 0.75em;
+  border-radius: 999px;
+}
+
+.skeleton-row {
+  display: grid;
+  grid-template-columns: 2.25rem 1fr auto;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1.25rem;
+  border-bottom: 1px solid var(--theme-border);
+}
+.skeleton-row:last-child {
+  border-bottom: none;
+}
+
+.skeleton-card {
+  border-radius: var(--r-lg);
+  border: 1px solid var(--theme-border);
+  background: var(--theme-surface);
+  padding: 1rem;
+}
+
+/* Respect the user's motion preference for the sweep specifically — the global
+   reduced-motion rule already collapses it, this keeps it off entirely. */
+@media (prefers-reduced-motion: reduce) {
+  .skeleton::after {
+    display: none;
+  }
+}
+

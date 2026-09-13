@@ -1,0 +1,25 @@
+# Normalize line endings in the repository; check out native per platform.
+* text=auto
+
+# Windows launchers and scripts must keep CRLF.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.vbs text eol=crlf
+
+# Binary assets — never diff or convert.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+
+# Generated / vendored files that should not be counted in language stats.
+app/dist/** linguist-generated=true
+data/roadmaps/*.json linguist-generated=true
+fixtures/*.json linguist-generated=true

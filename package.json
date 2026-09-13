@@ -1,0 +1,38 @@
+{
+  "name": "skill-trail",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted, offline roadmap tracker — official roadmap.sh rendering, progress, spaced repetition, mindmaps, and career analytics",
+  "license": "Apache-2.0",
+  "keywords": [
+    "roadmap",
+    "roadmap-sh",
+    "skill-trail",
+    "offline",
+    "self-hosted",
+    "developer-roadmap",
+    "learning",
+    "spaced-repetition",
+    "mindmap",
+    "progress-tracking",
+    "react",
+    "express"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "bootstrap": "node scripts/bootstrap-content.mjs",
+    "setup": "cd server && npm install && cd ../app && npm install",
+    "server": "cd server && npm start",
+    "app:dev": "cd app && npm run dev",
+    "app:build": "cd app && npm run build",
+    "start": "cd server && npm start",
+    "update": "node scripts/update-roadmaps.mjs",
+    "update:download": "node scripts/update-roadmaps.mjs --download",
+    "test": "node scripts/run-tests.mjs",
+    "test:fidelity": "python scripts/verify_edges.py",
+    "test:all": "npm test && npm run test:api && npm run test:fidelity",
+    "test:api": "node scripts/test-api.mjs"
+  }
+}

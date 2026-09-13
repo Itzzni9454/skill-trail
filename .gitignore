@@ -1,0 +1,59 @@
+# ------------------------------ dependencies ------------------------------
+node_modules/
+
+# -------------------------------- build output ----------------------------
+dist/
+*.tsbuildinfo
+app/vite.config.ts.timestamp-*.mjs
+
+# ---------------------------------- logs ----------------------------------
+*.log
+
+# ---------------------------------- env -----------------------------------
+.env
+.env.local
+
+# ---------------------- licensed roadmap content --------------------------
+# Roadmap JSONs and topic markdown are owned by roadmap.sh and licensed for
+# personal use only. They are downloaded per-user by `npm run bootstrap`
+# and must NEVER be committed to this repository.
+data/roadmaps/
+developer-roadmap/
+data/content/
+
+# ------------------------- personal / runtime state -----------------------
+# Your learning history and integrations must never be committed.
+data/state.json
+data/dailys.json
+data/connectors.json
+data/leetcode.json
+data/vault/
+data/cache/
+data/update-report.json
+data/google-service-account.json
+server/data/google-service-account.json
+server/data/euler_content/
+
+# ------------------------------- temp files -------------------------------
+*.tmp
+temp_code.json
+temp_proj.json
+tree_tmp.json
+
+# --------------------------- local-only scratch ---------------------------
+# Large, non-runtime leftovers kept on disk but out of git.
+archive/
+scratch/
+tools/
+
+# ------------------------------ tooling caches ----------------------------
+__pycache__/
+.pytest_cache/
+.workbuddy-ai/
+
+# ------------------------------- editor/OS --------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

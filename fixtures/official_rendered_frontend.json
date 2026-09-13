@@ -1,0 +1,5404 @@
+{
+ "nodes": {
+  "rTPILeOl4kayCrrRkV9QA": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "rmlzKAqMMvFBRvbJB6ume": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "eD2bXXZSLfizqzt7lEWrd": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "TNtfSIljEHYwIDsyhbvt1": {
+   "type": "section",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-303.9232599307553",
+    "y": "2370.345472761637",
+    "w": "179.3",
+    "h": "91.3",
+    "rx": "5",
+    "fill": "transparent",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": ""
+    }
+   ],
+   "extraHtml": null
+  },
+  "UlCAHtW9pG4UEzZDncztz": {
+   "type": "section",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-303.9232599307553",
+    "y": "2241.790441305402",
+    "w": "179.3",
+    "h": "111.3",
+    "rx": "5",
+    "fill": "#ffffff",
+    "stroke": "#000000",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": ""
+    }
+   ],
+   "extraHtml": null
+  },
+  "a8oOlkyM_C8vHuHqeiOAK": {
+   "type": "section",
+   "title": null,
+   "parentId": "Cxspmb14_0i1tfw-ZLxEu",
+   "parentTitle": null,
+   "rect": {
+    "x": "-114.37194919784626",
+    "y": "2185.9425725151477",
+    "w": "194.3",
+    "h": "275.3",
+    "rx": "5",
+    "fill": "#ffffff",
+    "stroke": "#000000",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": ""
+    }
+   ],
+   "extraHtml": null
+  },
+  "Ag-cO_gijx-4zjVev-ip_": {
+   "type": "horizontal",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "cpXONhDqKFe4qD5TAv7Ie": {
+   "type": "horizontal",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "w2THS-JTQ48uYd23lqKCh": {
+   "type": "horizontal",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "tDo-Q_H0Jor2fUSKhrDCd": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "wn2dsBrli3cswlXF4SltS": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "0vLaVNJaJSHZ_bHli6Qzs": {
+   "type": "paragraph",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-516.2564178431196",
+    "y": "3463.6558236930396",
+    "w": "571",
+    "h": "112.5",
+    "rx": "5",
+    "fill": "WHITe",
+    "stroke": "#000000",
+    "strokeWidth": "2.5",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": "-232.0064178431196",
+     "y": "3492.4058236930396",
+     "dx": null,
+     "dy": "0",
+     "anchor": "middle",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "Continue Learning with following relevant tracks"
+    }
+   ],
+   "extraHtml": null
+  },
+  "jJebnKe4JftMXZ1lCsipq": {
+   "type": "title",
+   "title": "Front-end",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Front-end"
+    }
+   ],
+   "extraHtml": null
+  },
+  "VlNNwIEDWqQXtqkHWJYzC": {
+   "type": "topic",
+   "title": "Internet",
+   "parentId": "jJebnKe4JftMXZ1lCsipq",
+   "parentTitle": "Front-end",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "69.62030742190214",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Internet"
+    }
+   ],
+   "extraHtml": null
+  },
+  "yCnn-NfSxIybUQ2iTuUGq": {
+   "type": "subtopic",
+   "title": "How does the internet work?",
+   "parentId": "VlNNwIEDWqQXtqkHWJYzC",
+   "parentTitle": "Internet",
+   "rect": {
+    "x": "87.59102681162429",
+    "y": "-93.37969257809786",
+    "w": "305.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "How does the internet work?"
+    }
+   ],
+   "extraHtml": null
+  },
+  "R12sArWVpbIs_PHxBqVaR": {
+   "type": "subtopic",
+   "title": "What is HTTP?",
+   "parentId": "VlNNwIEDWqQXtqkHWJYzC",
+   "parentTitle": "Internet",
+   "rect": {
+    "x": "87.59102681162429",
+    "y": "-39.37969257809785",
+    "w": "305.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "What is HTTP?"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ZhSuu2VArnzPDp6dPQQSC": {
+   "type": "subtopic",
+   "title": "What is Domain Name?",
+   "parentId": "VlNNwIEDWqQXtqkHWJYzC",
+   "parentTitle": "Internet",
+   "rect": {
+    "x": "87.59102681162429",
+    "y": "14.620307421902146",
+    "w": "305.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "What is Domain Name?"
+    }
+   ],
+   "extraHtml": null
+  },
+  "aqMaEY8gkKMikiqleV5EP": {
+   "type": "subtopic",
+   "title": "What is hosting?",
+   "parentId": "VlNNwIEDWqQXtqkHWJYzC",
+   "parentTitle": "Internet",
+   "rect": {
+    "x": "87.59102681162429",
+    "y": "68.62030742190214",
+    "w": "305.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "What is hosting?"
+    }
+   ],
+   "extraHtml": null
+  },
+  "hkxw9jPGYphmjhTjw8766": {
+   "type": "subtopic",
+   "title": "DNS and how it works?",
+   "parentId": "VlNNwIEDWqQXtqkHWJYzC",
+   "parentTitle": "Internet",
+   "rect": {
+    "x": "87.59102681162429",
+    "y": "122.62030742190214",
+    "w": "305.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "DNS and how it works?"
+    }
+   ],
+   "extraHtml": null
+  },
+  "P82WFaTPgQEPNp5IIuZ1Y": {
+   "type": "subtopic",
+   "title": "Browsers and how they work?",
+   "parentId": "VlNNwIEDWqQXtqkHWJYzC",
+   "parentTitle": "Internet",
+   "rect": {
+    "x": "87.59102681162429",
+    "y": "176.62030742190214",
+    "w": "305.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Browsers and how they work?"
+    }
+   ],
+   "extraHtml": null
+  },
+  "yWG2VUkaF5IJVVut6AiSy": {
+   "type": "topic",
+   "title": "HTML",
+   "parentId": "VlNNwIEDWqQXtqkHWJYzC",
+   "parentTitle": "Internet",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "179.62030742190214",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "HTML"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ZhJhf1M2OphYbEmduFq-9": {
+   "type": "topic",
+   "title": "CSS",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "232.62030742190214",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "CSS"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ODcfFEorkfJNupoQygM53": {
+   "type": "topic",
+   "title": "JavaScript",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "285.62030742190217",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "JavaScript"
+    }
+   ],
+   "extraHtml": null
+  },
+  "MXnFhZlNB1zTsBFDyni9H": {
+   "type": "topic",
+   "title": "VCS Hosting",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "438.84093274179156",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "VCS Hosting"
+    }
+   ],
+   "extraHtml": null
+  },
+  "NIY7c4TQEEHx0hATu-k5C": {
+   "type": "topic",
+   "title": "Version Control ",
+   "parentId": "ODcfFEorkfJNupoQygM53",
+   "parentTitle": "JavaScript",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "385.84093274179156",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Version Control "
+    }
+   ],
+   "extraHtml": null
+  },
+  "R_I4SGYqLk5zze5I1zS_E": {
+   "type": "subtopic",
+   "title": "Git",
+   "parentId": "NIY7c4TQEEHx0hATu-k5C",
+   "parentTitle": "Version Control ",
+   "rect": {
+    "x": "-528.7403733522699",
+    "y": "385.84093274179156",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Git"
+    }
+   ],
+   "extraHtml": null
+  },
+  "IqvS1V-98cxko3e9sBQgP": {
+   "type": "topic",
+   "title": "Package Managers",
+   "parentId": "MXnFhZlNB1zTsBFDyni9H",
+   "parentTitle": "VCS Hosting",
+   "rect": {
+    "x": "163.52959517325755",
+    "y": "438.84093274179156",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Package Managers"
+    }
+   ],
+   "extraHtml": null
+  },
+  "qmTVMJDsEhNIkiwE_UTYu": {
+   "type": "subtopic",
+   "title": "GitHub",
+   "parentId": "MXnFhZlNB1zTsBFDyni9H",
+   "parentTitle": "VCS Hosting",
+   "rect": {
+    "x": "-528.7403733522699",
+    "y": "438.84093274179156",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "GitHub"
+    }
+   ],
+   "extraHtml": null
+  },
+  "zIoSJMX3cuzCgDYHjgbEh": {
+   "type": "subtopic",
+   "title": "GitLab",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "438.84093274179156",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "GitLab"
+    }
+   ],
+   "extraHtml": null
+  },
+  "yrq3nOwFREzl-9EKnpU-e": {
+   "type": "subtopic",
+   "title": "yarn",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "285.5295951732576",
+    "y": "295.0748298360628",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "yarn"
+    }
+   ],
+   "extraHtml": null
+  },
+  "SLxA5qJFp_28TRzr1BjxZ": {
+   "type": "subtopic",
+   "title": "pnpm",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "163.52959517325752",
+    "y": "348.0748298360628",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "pnpm"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ib_FHinhrw8VuSet-xMF7": {
+   "type": "subtopic",
+   "title": "npm",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "163.52959517325755",
+    "y": "295.0748298360628",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "npm"
+    }
+   ],
+   "extraHtml": null
+  },
+  "eXezX7CVNyC1RuyU_I4yP": {
+   "type": "topic",
+   "title": "Learn a Framework",
+   "parentId": "DI8pvEosrUU7lcaGa7-Kc",
+   "parentTitle": "At this point, you should be able to build modern vanilla JS frontend applications.",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "740.414831207322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Learn a Framework"
+    }
+   ],
+   "extraHtml": null
+  },
+  "-bHFIiXnoUQSov64WI9yo": {
+   "type": "subtopic",
+   "title": "Angular",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "636.6767930432965",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Angular"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ERAdwL1G9M1bnx-fOm5ZA": {
+   "type": "subtopic",
+   "title": "Vue.js",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "583.6767930432965",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Vue.js"
+    }
+   ],
+   "extraHtml": null
+  },
+  "tG5v3O4lNIFc2uCnacPak": {
+   "type": "subtopic",
+   "title": "React",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "530.6767930432965",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "React"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ZR-qZ2Lcbu3FtqaMd3wM4": {
+   "type": "subtopic",
+   "title": "Svelte",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "689.6767930432965",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Svelte"
+    }
+   ],
+   "extraHtml": null
+  },
+  "DxOSKnqAjZOPP-dq_U7oP": {
+   "type": "subtopic",
+   "title": "Solid JS",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "742.6767930432965",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Solid JS"
+    }
+   ],
+   "extraHtml": null
+  },
+  "XDTD8el6OwuQ55wC-X4iV": {
+   "type": "topic",
+   "title": "CSS Frameworks",
+   "parentId": "IqvS1V-98cxko3e9sBQgP",
+   "parentTitle": "Package Managers",
+   "rect": {
+    "x": "163.52959517325755",
+    "y": "549.0748298360628",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "CSS Frameworks"
+    }
+   ],
+   "extraHtml": null
+  },
+  "eghnfG4p7i-EDWfp3CQXC": {
+   "type": "subtopic",
+   "title": "Tailwind",
+   "parentId": "XDTD8el6OwuQ55wC-X4iV",
+   "parentTitle": "CSS Frameworks",
+   "rect": {
+    "x": "163.52959517325755",
+    "y": "634.6203074219021",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Tailwind"
+    }
+   ],
+   "extraHtml": null
+  },
+  "LEijbLyxg4RyutKEM2Y5g": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "9VcGfDBBD8YcKatj4VcH1": {
+   "type": "topic",
+   "title": "Linters & Formatters",
+   "parentId": "flwf3QbJioovtOpMw4obo",
+   "parentTitle": "Advanced Frontend",
+   "rect": {
+    "x": "160.84718479195078",
+    "y": "1485.9057520139006",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Linters & Formatters"
+    }
+   ],
+   "extraHtml": null
+  },
+  "hkSc_1x09m7-7BO7WzlDT": {
+   "type": "topic",
+   "title": "Module Bundlers",
+   "parentId": "9VcGfDBBD8YcKatj4VcH1",
+   "parentTitle": "Linters & Formatters",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "1485.9057520139006",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Module Bundlers"
+    }
+   ],
+   "extraHtml": null
+  },
+  "NS-hwaWa5ebSmNNRoxFDp": {
+   "type": "subtopic",
+   "title": "Parcel",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "1740.4466308599274",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Parcel"
+    }
+   ],
+   "extraHtml": null
+  },
+  "sCjErk7rfWAUvhl8Kfm3n": {
+   "type": "subtopic",
+   "title": "Rollup",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "1687.4466308599274",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Rollup"
+    }
+   ],
+   "extraHtml": null
+  },
+  "4W7UXfdKIUsm1bUrjdTVT": {
+   "type": "subtopic",
+   "title": "esbuild",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-110.35798467806268",
+    "y": "1634.4466308599274",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "esbuild"
+    }
+   ],
+   "extraHtml": null
+  },
+  "0Awx3zEI5_gYEIrD7IVX6": {
+   "type": "subtopic",
+   "title": "Vite",
+   "parentId": "hkSc_1x09m7-7BO7WzlDT",
+   "parentTitle": "Module Bundlers",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "1581.4466308599274",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Vite"
+    }
+   ],
+   "extraHtml": null
+  },
+  "zbkpu_gvQ4mgCiZKzS1xv": {
+   "type": "subtopic",
+   "title": "Prettier",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "1637.9057520139006",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Prettier"
+    }
+   ],
+   "extraHtml": null
+  },
+  "NFjsI712_qP0IOmjuqXar": {
+   "type": "subtopic",
+   "title": "ESLint",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "1690.9057520139006",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "ESLint"
+    }
+   ],
+   "extraHtml": null
+  },
+  "igg4_hb3XE3vuvY8ufV-4": {
+   "type": "topic",
+   "title": "Testing",
+   "parentId": "U5mD5FmVx7VWeKxDpQxB5",
+   "parentTitle": "Auth Strategies",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1854.0618525728307",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Testing"
+    }
+   ],
+   "extraHtml": null
+  },
+  "hVQ89f6G0LXEgHIOKHDYq": {
+   "type": "subtopic",
+   "title": "Vitest",
+   "parentId": "igg4_hb3XE3vuvY8ufV-4",
+   "parentTitle": "Testing",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1939.9378153769437",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Vitest"
+    }
+   ],
+   "extraHtml": null
+  },
+  "g5itUjgRXd9vs9ujHezFl": {
+   "type": "subtopic",
+   "title": "Jest",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2098.9378153769435",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Jest"
+    }
+   ],
+   "extraHtml": null
+  },
+  "jramLk8FGuaEH4YpHIyZT": {
+   "type": "subtopic",
+   "title": "Playwright",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1992.9378153769437",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Playwright"
+    }
+   ],
+   "extraHtml": null
+  },
+  "DaynCz5RR26gjT6N6gTDL": {
+   "type": "subtopic",
+   "title": "Cypress",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2045.9378153769437",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Cypress"
+    }
+   ],
+   "extraHtml": null
+  },
+  "U5mD5FmVx7VWeKxDpQxB5": {
+   "type": "topic",
+   "title": "Auth Strategies",
+   "parentId": "hkSc_1x09m7-7BO7WzlDT",
+   "parentTitle": "Module Bundlers",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1485.9057520139006",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Auth Strategies"
+    }
+   ],
+   "extraHtml": null
+  },
+  "RDWbG3Iui6IPgp0shvXtg": {
+   "type": "topic",
+   "title": "Web Security",
+   "parentId": "3HgiMfqihjWceSxd6ei8s",
+   "parentTitle": "Web APIs",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2078.464686047012",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Web Security"
+    }
+   ],
+   "extraHtml": null
+  },
+  "AfH2zCbqzw0Nisg1yyISS": {
+   "type": "subtopic",
+   "title": "CORS",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "1803.081167038745",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "CORS"
+    }
+   ],
+   "extraHtml": null
+  },
+  "uum7vOhOUR38vLuGZy8Oa": {
+   "type": "subtopic",
+   "title": "HTTPS",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "1856.081167038745",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "HTTPS"
+    }
+   ],
+   "extraHtml": null
+  },
+  "rmcm0CZbtNVC9LZ14-H6h": {
+   "type": "subtopic",
+   "title": "CSP",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "1909.081167038745",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "CSP"
+    }
+   ],
+   "extraHtml": null
+  },
+  "JanR7I_lNnUCXhCMGLdn-": {
+   "type": "subtopic",
+   "title": "OWASP Risks",
+   "parentId": "RDWbG3Iui6IPgp0shvXtg",
+   "parentTitle": "Web Security",
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "1962.081167038745",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "OWASP Risks"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ruoFa3M4bUE3Dg6GXSiUI": {
+   "type": "topic",
+   "title": "Web Components",
+   "parentId": "6d8cjWZ4BuUjwT0seiuzJ",
+   "parentTitle": "Performance",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2971.074470475211",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Web Components"
+    }
+   ],
+   "extraHtml": null
+  },
+  "NQ95TJCe3E1IwEuBa__D6": {
+   "type": "topic",
+   "title": "Type Checkers",
+   "parentId": "n0q32YhWEIAUwbGXexoqV",
+   "parentTitle": "SSG",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "2498.3273598448777",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Type Checkers"
+    }
+   ],
+   "extraHtml": null
+  },
+  "VxiQPgcYDFAT6WgSRWpIA": {
+   "type": "subtopic",
+   "title": "Custom Elements",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "3126.591237679653",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Custom Elements"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Hk8AVonOd693_y1sykPqd": {
+   "type": "subtopic",
+   "title": "HTML Templates",
+   "parentId": "ruoFa3M4bUE3Dg6GXSiUI",
+   "parentTitle": "Web Components",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "3072.591237679653",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "HTML Templates"
+    }
+   ],
+   "extraHtml": null
+  },
+  "-SpsNeOZBkQfDA-rwzgPg": {
+   "type": "subtopic",
+   "title": "Shadow DOM",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "3180.591237679653",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Shadow DOM"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Cxspmb14_0i1tfw-ZLxEu": {
+   "type": "topic",
+   "title": "SSR",
+   "parentId": "RDWbG3Iui6IPgp0shvXtg",
+   "parentTitle": "Web Security",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2300.4425725151477",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "SSR"
+    }
+   ],
+   "extraHtml": null
+  },
+  "OL8I6nOZ8hGGWmtxg_Mv8": {
+   "type": "subtopic",
+   "title": "Svelte",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-283.42325993075536",
+    "y": "2402.845472761637",
+    "w": "138.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Svelte"
+    }
+   ],
+   "extraHtml": null
+  },
+  "3TE_iYvbklXK0be-5f2M7": {
+   "type": "topic",
+   "title": "Vue.js",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-303.9232599307553",
+    "y": "2217.290441305402",
+    "w": "179.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Vue.js"
+    }
+   ],
+   "extraHtml": null
+  },
+  "k6rp6Ua9qUEW_DA_fOg5u": {
+   "type": "subtopic",
+   "title": "Angular",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-303.9232599307553",
+    "y": "2161.4425725151477",
+    "w": "179.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Angular"
+    }
+   ],
+   "extraHtml": null
+  },
+  "SGDf_rbfmFSHlxI-Czzlz": {
+   "type": "topic",
+   "title": "React",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-114.37194919784626",
+    "y": "2161.4425725151477",
+    "w": "194.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "React"
+    }
+   ],
+   "extraHtml": null
+  },
+  "KJRkrFZIihCUBrOf579EU": {
+   "type": "subtopic",
+   "title": "react-router",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-91.37194919784626",
+    "y": "2391.338935454003",
+    "w": "151.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "react-router"
+    }
+   ],
+   "extraHtml": null
+  },
+  "zNFYAJaSq0YZXL5Rpx1NX": {
+   "type": "subtopic",
+   "title": "Next.js",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-91.37194919784626",
+    "y": "2232.338935454003",
+    "w": "151.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Next.js"
+    }
+   ],
+   "extraHtml": null
+  },
+  "BBsXxkbbEG-gnbM1xXKrj": {
+   "type": "subtopic",
+   "title": "Nuxt.js",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-283.42325993075536",
+    "y": "2279.290441305402",
+    "w": "138.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Nuxt.js"
+    }
+   ],
+   "extraHtml": null
+  },
+  "P4st_telfCwKLSAU2WsQP": {
+   "type": "topic",
+   "title": "SvelteKit",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-303.9232599307553",
+    "y": "2345.845472761637",
+    "w": "179.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "SvelteKit"
+    }
+   ],
+   "extraHtml": null
+  },
+  "L7AllJfKvClaam3y-u6DP": {
+   "type": "topic",
+   "title": "GraphQL",
+   "parentId": "ruoFa3M4bUE3Dg6GXSiUI",
+   "parentTitle": "Web Components",
+   "rect": {
+    "x": "-233.31572340335313",
+    "y": "2971.074470475211",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "GraphQL"
+    }
+   ],
+   "extraHtml": null
+  },
+  "5eUbDdOTOfaOhUlZAmmXW": {
+   "type": "subtopic",
+   "title": "Apollo",
+   "parentId": "L7AllJfKvClaam3y-u6DP",
+   "parentTitle": "GraphQL",
+   "rect": {
+    "x": "-233.31572340335313",
+    "y": "3070.920561379165",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Apollo"
+    }
+   ],
+   "extraHtml": null
+  },
+  "0moPO23ol33WsjVXSpTGf": {
+   "type": "subtopic",
+   "title": "Relay Modern",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-233.31572340335313",
+    "y": "3123.920561379165",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Relay Modern"
+    }
+   ],
+   "extraHtml": null
+  },
+  "n0q32YhWEIAUwbGXexoqV": {
+   "type": "topic",
+   "title": "SSG",
+   "parentId": "Cxspmb14_0i1tfw-ZLxEu",
+   "parentTitle": "SSR",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2498.3273598448777",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "SSG"
+    }
+   ],
+   "extraHtml": null
+  },
+  "CMrss8E2W0eA6DVEqtPjT": {
+   "type": "subtopic",
+   "title": "Vuepress",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2717.128229592709",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Vuepress"
+    }
+   ],
+   "extraHtml": null
+  },
+  "XWJxV42Dpu2D3xDK10Pn3": {
+   "type": "subtopic",
+   "title": "Nuxt.js",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2823.128229592709",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Nuxt.js"
+    }
+   ],
+   "extraHtml": null
+  },
+  "iUxXq7beg55y76dkwhM13": {
+   "type": "subtopic",
+   "title": "Astro",
+   "parentId": "n0q32YhWEIAUwbGXexoqV",
+   "parentTitle": "SSG",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2611.128229592709",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Astro"
+    }
+   ],
+   "extraHtml": null
+  },
+  "io0RHJWIcVxDhcYkV9d38": {
+   "type": "subtopic",
+   "title": "Eleventy",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2770.128229592709",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Eleventy"
+    }
+   ],
+   "extraHtml": null
+  },
+  "V70884VcuXkfrfHyLGtUg": {
+   "type": "subtopic",
+   "title": "Next.js",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2664.128229592709",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Next.js"
+    }
+   ],
+   "extraHtml": null
+  },
+  "PoM77O2OtxPELxfrW1wtl": {
+   "type": "topic",
+   "title": "PWAs",
+   "parentId": "e-k6EhoxYG9h0x6vWOrDh",
+   "parentTitle": "Accessibility",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "3118.697585709834",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "PWAs"
+    }
+   ],
+   "extraHtml": null
+  },
+  "VOGKiG2EZVfCBAaa7Df0W": {
+   "type": "topic",
+   "title": "Mobile Apps",
+   "parentId": "PoM77O2OtxPELxfrW1wtl",
+   "parentTitle": "PWAs",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "3252.1075831355297",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Mobile Apps"
+    }
+   ],
+   "extraHtml": null
+  },
+  "dsTegXTyupjS8iU6I7Xiv": {
+   "type": "subtopic",
+   "title": "React Native",
+   "parentId": "VOGKiG2EZVfCBAaa7Df0W",
+   "parentTitle": "Mobile Apps",
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "3346.4515325696466",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "React Native"
+    }
+   ],
+   "extraHtml": null
+  },
+  "dIQXjFEUAJAGxxfAYceHU": {
+   "type": "subtopic",
+   "title": "Flutter",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "3399.4515325696466",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Flutter"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Pxyk3nBlWbgmMjsA93E70": {
+   "type": "subtopic",
+   "title": "Ionic",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "3452.4515325696466",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Ionic"
+    }
+   ],
+   "extraHtml": null
+  },
+  "KMA7NkxFbPoUDtFnGBFnj": {
+   "type": "topic",
+   "title": "Desktop Apps",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "3252.1075831355297",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Desktop Apps"
+    }
+   ],
+   "extraHtml": null
+  },
+  "qXKNK_IsGS8-JgLK-Q9oU": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-503.39001036972843",
+    "y": "3512.3072291507638",
+    "w": "117.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#4136D6",
+    "stroke": "#4136D6",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Nodejs"
+    }
+   ],
+   "extraHtml": null
+  },
+  "RLtk1C3gofHnLJ17x3o5b": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "mQHpSyMR4Rra4mqAslgiS": {
+   "type": "subtopic",
+   "title": "Electron",
+   "parentId": "KMA7NkxFbPoUDtFnGBFnj",
+   "parentTitle": "Desktop Apps",
+   "rect": {
+    "x": "-648.8197166803284",
+    "y": "3252.1075831355297",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Electron"
+    }
+   ],
+   "extraHtml": null
+  },
+  "GJctl0tVXe4B70s35RkLT": {
+   "type": "subtopic",
+   "title": "Tauri",
+   "parentId": "KMA7NkxFbPoUDtFnGBFnj",
+   "parentTitle": "Desktop Apps",
+   "rect": {
+    "x": "-648.8197166803284",
+    "y": "3305.1075831355297",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Tauri"
+    }
+   ],
+   "extraHtml": null
+  },
+  "2MRvAK9G9RGM_auWytcKh": {
+   "type": "subtopic",
+   "title": "Flutter",
+   "parentId": "KMA7NkxFbPoUDtFnGBFnj",
+   "parentTitle": "Desktop Apps",
+   "rect": {
+    "x": "-648.8197166803284",
+    "y": "3358.1075831355297",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Flutter"
+    }
+   ],
+   "extraHtml": null
+  },
+  "h26uS3muFCabe6ekElZcI": {
+   "type": "subtopic",
+   "title": "SWC",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "1634.4466308599274",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "SWC"
+    }
+   ],
+   "extraHtml": null
+  },
+  "qN-6iiXWgn5qSzK3o0Tjo": {
+   "type": "legend",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-653.5314218617622",
+    "y": "-290.7454122270983",
+    "w": "370.3",
+    "h": "122.3",
+    "rx": "5",
+    "fill": "white",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Personal Recommendation"
+    },
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Alternative Option"
+    },
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Order not strict on roadmap"
+    }
+   ],
+   "extraHtml": null
+  },
+  "NJhQIvMyMD1Cu-JA1UCmJ": {
+   "type": "legend-item",
+   "title": null,
+   "parentId": "qN-6iiXWgn5qSzK3o0Tjo",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Personal Recommendation"
+    }
+   ],
+   "extraHtml": null
+  },
+  "DMx7rAjVBWMbzjSde-tvp": {
+   "type": "legend-item",
+   "title": null,
+   "parentId": "qN-6iiXWgn5qSzK3o0Tjo",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Alternative Option"
+    }
+   ],
+   "extraHtml": null
+  },
+  "R9WLhURhPdVNXP7AUTDvR": {
+   "type": "legend-item",
+   "title": null,
+   "parentId": "qN-6iiXWgn5qSzK3o0Tjo",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Order not strict on roadmap"
+    }
+   ],
+   "extraHtml": null
+  },
+  "wA2fSYsbBYU02VJXAvUz8": {
+   "type": "subtopic",
+   "title": "Astro",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-91.37194919784626",
+    "y": "2338.338935454003",
+    "w": "151.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Astro"
+    }
+   ],
+   "extraHtml": null
+  },
+  "slf6jmim4p9ti6ZRHOZe_": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-379.3900103697285",
+    "y": "3512.3072291507638",
+    "w": "117.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#4136D6",
+    "stroke": "#4136D6",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Fullstack"
+    }
+   ],
+   "extraHtml": null
+  },
+  "MfErpYwkJ0wiWJZEUVfrb": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-653.5314218617622",
+    "y": "-152.37969257809786",
+    "w": "370.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#232323",
+    "stroke": "#232323",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Visit Beginner Friendly Version"
+    }
+   ],
+   "extraHtml": null
+  },
+  "LdhFo8UrT6EBs6IE42uLx": {
+   "type": "linksgroup",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-653.5314218617622",
+    "y": "-90.37969257809786",
+    "w": "370.3",
+    "h": "193.3",
+    "rx": "5",
+    "fill": "white",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Related Roadmaps"
+    },
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "JavaScript Roadmap"
+    },
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "React Roadmap"
+    },
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "TypeScript Roadmap"
+    },
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Node.js Roadmap"
+    }
+   ],
+   "extraHtml": "<rect x=\"-653.5314218617622\" y=\"-90.37969257809786\" width=\"370.3\" height=\"193.3\" rx=\"5\" fill=\"white\" stroke=\"black\" stroke-width=\"2.7\"></rect><text x=\"-630.8814218617622\" y=\"-62.729692578097854\" text-anchor=\"left\" dominant-baseline=\"middle\" font-size=\"16\" fill=\"black\"><tspan>Related Roadmaps</tspan></text><g data-node-id=\"qH0LPtPGcn4Lc1RhXwKVp\" data-type=\"link-item\" data-parent-id=\"LdhFo8UrT6EBs6IE42uLx\" data-link=\"https://roadmap.sh/javascript\"><circle cx=\"-622.3814218617622\" cy=\"-24.229692578097854\" r=\"9.5\" fill=\"#6b7280\" zIndex=\"1\" id=\"icon-link\"></circle><path d=\"M-626.3814218617622 -24.229692578097854L-623.8814218617622 -21.229692578097854 -618.8814218617622 -26.229692578097854\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><text x=\"-604.8814218617622\" y=\"-22.729692578097854\" text-anchor=\"left\" dominant-baseline=\"middle\" font-size=\"16\" fill=\"black\"><tspan>JavaScript Roadmap</tspan></text></g><g data-node-id=\"NHvKDG4LZt_wRREFYubCd\" data-type=\"link-item\" data-parent-id=\"LdhFo8UrT6EBs6IE42uLx\" data-link=\"https://roadmap.sh/react\"><circle cx=\"-622.3814218617622\" cy=\"5.770307421902146\" r=\"9.5\" fill=\"#6b7280\" zIndex=\"1\" id=\"icon-link\"></circle><path d=\"M-626.3814218617622 5.770307421902146L-623.8814218617622 8.770307421902146 -618.8814218617622 3.770307421902146\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><text x=\"-604.8814218617622\" y=\"7.270307421902146\" text-anchor=\"left\" dominant-baseline=\"middle\" font-size=\"16\" fill=\"black\"><tspan>React Roadmap</tspan></text></g><g data-node-id=\"lYZdNGa-RbSvjTZyyfsHK\" data-type=\"link-item\" data-parent-id=\"LdhFo8UrT6EBs6IE42uLx\" data-link=\"https://roadmap.sh/typescript\"><circle cx=\"-622.3814218617622\" cy=\"35.770307421902146\" r=\"9.5\" fill=\"#6b7280\" zIndex=\"1\" id=\"icon-link\"></circle><path d=\"M-626.3814218617622 35.770307421902146L-623.8814218617622 38.770307421902146 -618.8814218617622 33.770307421902146\" fill=\"none\" stroke=\"#ff"
+  },
+  "qH0LPtPGcn4Lc1RhXwKVp": {
+   "type": "link-item",
+   "title": null,
+   "parentId": "LdhFo8UrT6EBs6IE42uLx",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "JavaScript Roadmap"
+    }
+   ],
+   "extraHtml": null
+  },
+  "NHvKDG4LZt_wRREFYubCd": {
+   "type": "link-item",
+   "title": null,
+   "parentId": "LdhFo8UrT6EBs6IE42uLx",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "React Roadmap"
+    }
+   ],
+   "extraHtml": null
+  },
+  "lYZdNGa-RbSvjTZyyfsHK": {
+   "type": "link-item",
+   "title": null,
+   "parentId": "LdhFo8UrT6EBs6IE42uLx",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "TypeScript Roadmap"
+    }
+   ],
+   "extraHtml": null
+  },
+  "-rJot3Dyu48vRQdfpz7HS": {
+   "type": "link-item",
+   "title": null,
+   "parentId": "LdhFo8UrT6EBs6IE42uLx",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Node.js Roadmap"
+    }
+   ],
+   "extraHtml": null
+  },
+  "yObLj-GcXY9bv2isJPCjs": {
+   "type": "paragraph",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-647.1918542150819",
+    "y": "171.52030742190215",
+    "w": "364",
+    "h": "173.5",
+    "rx": "5",
+    "fill": "#ffffff",
+    "stroke": "#ffffff",
+    "strokeWidth": "2.5",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": "-629.9418542150819",
+     "y": "200.27030742190215",
+     "dx": null,
+     "dy": "0",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "HTML, CSS and JavaScript are the"
+    },
+    {
+     "x": "-629.9418542150819",
+     "y": "200.27030742190215",
+     "dx": null,
+     "dy": "25.5",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "backbone of web development. Make sure"
+    },
+    {
+     "x": "-629.9418542150819",
+     "y": "200.27030742190215",
+     "dx": null,
+     "dy": "51",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "to practice by building lots of projects."
+    }
+   ],
+   "extraHtml": null
+  },
+  "w4AronIkLVW4DiB8BB_cE": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-630.5918542150819",
+    "y": "281.62030742190217",
+    "w": "328.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#dedede",
+    "stroke": "#DEDEDE",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Beginner Project Ideas"
+    }
+   ],
+   "extraHtml": null
+  },
+  "j2H1qGosbveayviOCVkUs": {
+   "type": "subtopic",
+   "title": "Bun",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "285.5295951732576",
+    "y": "348.0748298360628",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Bun"
+    }
+   ],
+   "extraHtml": null
+  },
+  "DI8pvEosrUU7lcaGa7-Kc": {
+   "type": "paragraph",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-294.2065506483883",
+    "y": "516.5203074219021",
+    "w": "357",
+    "h": "148.5",
+    "rx": "5",
+    "fill": "#ffffff",
+    "stroke": "#ffffff",
+    "strokeWidth": "2.5",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": "-276.9565506483883",
+     "y": "545.2703074219021",
+     "dx": null,
+     "dy": "0",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "At this point, you should be able to build"
+    },
+    {
+     "x": "-276.9565506483883",
+     "y": "545.2703074219021",
+     "dx": null,
+     "dy": "25.5",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "modern vanilla JS frontend applications."
+    }
+   ],
+   "extraHtml": null
+  },
+  "cSn0Mp45AKmj-bn-b-j_I": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-276.1065506483883",
+    "y": "598.6203074219021",
+    "w": "318.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#DEDEDE",
+    "stroke": "#DEDEDE",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Intermediate Project Ideas"
+    }
+   ],
+   "extraHtml": null
+  },
+  "UvCVChB6NZ_yUg0RdIJ2o": {
+   "type": "subtopic",
+   "title": "Biome",
+   "parentId": "9VcGfDBBD8YcKatj4VcH1",
+   "parentTitle": "Linters & Formatters",
+   "rect": {
+    "x": "160.84718479195072",
+    "y": "1584.9057520139006",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Biome"
+    }
+   ],
+   "extraHtml": null
+  },
+  "hE-DbpBpYrfB8tmBEjTnG": {
+   "type": "subtopic",
+   "title": "Rolldown",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-110.35798467806268",
+    "y": "1687.4466308599274",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Rolldown"
+    }
+   ],
+   "extraHtml": null
+  },
+  "jgyCo2WH4TJjETAa57N1U": {
+   "type": "vertical",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": null,
+   "texts": [],
+   "extraHtml": null
+  },
+  "ydZRVWQrJUl3LZfjhR8QT": {
+   "type": "paragraph",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-331.2065506483883",
+    "y": "1832.2269147243353",
+    "w": "431",
+    "h": "180.5",
+    "rx": "5",
+    "fill": "#ffffff",
+    "stroke": "#ffffff",
+    "strokeWidth": "2.5",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": "-313.9565506483883",
+     "y": "1860.9769147243353",
+     "dx": null,
+     "dy": "0",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "At this point you should have the expertise of an"
+    },
+    {
+     "x": "-313.9565506483883",
+     "y": "1860.9769147243353",
+     "dx": null,
+     "dy": "25.5",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "intermediate level frontend developer. Keep"
+    },
+    {
+     "x": "-313.9565506483883",
+     "y": "1860.9769147243353",
+     "dx": null,
+     "dy": "51",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "practicing and sharpening your skills."
+    }
+   ],
+   "extraHtml": null
+  },
+  "YFhTAvoRXc8aIa9FVZgtb": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-313.1065506483883",
+    "y": "1944.0826143468123",
+    "w": "392.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#DEDEDE",
+    "stroke": "#DEDEDE",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Advanced Project Ideas"
+    }
+   ],
+   "extraHtml": null
+  },
+  "f9zlP6lGhfe6HBHVYiySu": {
+   "type": "subtopic",
+   "title": "Tanstack Start",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-91.37194919784626",
+    "y": "2285.338935454003",
+    "w": "151.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Tanstack Start"
+    }
+   ],
+   "extraHtml": null
+  },
+  "A1ZUy16cVRYqmHxoCtUb0": {
+   "type": "topic",
+   "title": "Deployment",
+   "parentId": "NQ95TJCe3E1IwEuBa__D6",
+   "parentTitle": "Type Checkers",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2498.3273598448777",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Deployment"
+    }
+   ],
+   "extraHtml": null
+  },
+  "vpzh9bNXCxgdDFQLsot2_": {
+   "type": "subtopic",
+   "title": "GitHub Pages",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2224.746572653209",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "GitHub Pages"
+    }
+   ],
+   "extraHtml": null
+  },
+  "kPJ0jZo5AbOzvZgv0zwp0": {
+   "type": "subtopic",
+   "title": "Vercel",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2277.746572653209",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Vercel"
+    }
+   ],
+   "extraHtml": null
+  },
+  "_Uh-UFNe2wP2TV0x2lKY_": {
+   "type": "subtopic",
+   "title": "Cloudflare",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2330.746572653209",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Cloudflare"
+    }
+   ],
+   "extraHtml": null
+  },
+  "o8GstE5gxcGByh-D7lwqT": {
+   "type": "subtopic",
+   "title": "Netlify",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-528.7403733522699",
+    "y": "2277.746572653209",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Netlify"
+    }
+   ],
+   "extraHtml": null
+  },
+  "PJRsqg5Vx9gQTodxaeZfz": {
+   "type": "subtopic",
+   "title": "Railway",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2383.746572653209",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Railway"
+    }
+   ],
+   "extraHtml": null
+  },
+  "wfGz8pshGQARZ7qStGoSD": {
+   "type": "subtopic",
+   "title": "Render",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-528.7403733522699",
+    "y": "2383.746572653209",
+    "w": "115.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Render"
+    }
+   ],
+   "extraHtml": null
+  },
+  "6d8cjWZ4BuUjwT0seiuzJ": {
+   "type": "topic",
+   "title": "Performance",
+   "parentId": "ap4h4v5Sr4jBH3GwWSH8x",
+   "parentTitle": "Design Systems",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2777.0625572601243",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Performance"
+    }
+   ],
+   "extraHtml": null
+  },
+  "dz7_QXoO7X0WmS5xuAhhJ": {
+   "type": "subtopic",
+   "title": "Lighthouse",
+   "parentId": "6d8cjWZ4BuUjwT0seiuzJ",
+   "parentTitle": "Performance",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "2673.0625572601243",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Lighthouse"
+    }
+   ],
+   "extraHtml": null
+  },
+  "JWU9jc12_ewaIKt3qWLcp": {
+   "type": "subtopic",
+   "title": "DevTools Usage",
+   "parentId": "6d8cjWZ4BuUjwT0seiuzJ",
+   "parentTitle": "Performance",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "2726.0625572601243",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "DevTools Usage"
+    }
+   ],
+   "extraHtml": null
+  },
+  "66ya3WdtlkjQyBTc3Lein": {
+   "type": "subtopic",
+   "title": "Service Workers",
+   "parentId": "6d8cjWZ4BuUjwT0seiuzJ",
+   "parentTitle": "Performance",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "2779.0625572601243",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Service Workers"
+    }
+   ],
+   "extraHtml": null
+  },
+  "FyNXhHq1VIASNq-LI7JIu": {
+   "type": "subtopic",
+   "title": "Streamed Responses",
+   "parentId": "6d8cjWZ4BuUjwT0seiuzJ",
+   "parentTitle": "Performance",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "2885.0625572601243",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Streamed Responses"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ap4h4v5Sr4jBH3GwWSH8x": {
+   "type": "topic",
+   "title": "Design Systems",
+   "parentId": "A1ZUy16cVRYqmHxoCtUb0",
+   "parentTitle": "Deployment",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "2628.128229592709",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Design Systems"
+    }
+   ],
+   "extraHtml": null
+  },
+  "3HgiMfqihjWceSxd6ei8s": {
+   "type": "topic",
+   "title": "Web APIs",
+   "parentId": "ydZRVWQrJUl3LZfjhR8QT",
+   "parentTitle": "At this point you should have the expertise of an intermediate level frontend developer. Keep practicing and sharpening your skills.",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "2078.464686047012",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Web APIs"
+    }
+   ],
+   "extraHtml": null
+  },
+  "e-k6EhoxYG9h0x6vWOrDh": {
+   "type": "topic",
+   "title": "Accessibility",
+   "parentId": "L7AllJfKvClaam3y-u6DP",
+   "parentTitle": "GraphQL",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "2971.074470475211",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Accessibility"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Df3nTlTvSQkMGzpufRo9q": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-255.3900103697284",
+    "y": "3512.3072291507638",
+    "w": "117.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#4136D6",
+    "stroke": "#4136D6",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Backend"
+    }
+   ],
+   "extraHtml": null
+  },
+  "-sFboM4eFUMVq1tlPl-fV": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-131.39001036972843",
+    "y": "3512.3072291507638",
+    "w": "168.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#4136D6",
+    "stroke": "#4136D6",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Design System"
+    }
+   ],
+   "extraHtml": null
+  },
+  "6kWlgayUZQnr9z88fUOkk": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "2591.128229592709",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#2a79e4",
+    "stroke": "#2a79e4",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "TypeScript"
+    }
+   ],
+   "extraHtml": null
+  },
+  "tWDmeXItfQDxB8Jij_V4L": {
+   "type": "subtopic",
+   "title": "Cache-Control",
+   "parentId": "6d8cjWZ4BuUjwT0seiuzJ",
+   "parentTitle": "Performance",
+   "rect": {
+    "x": "-232.35798467806268",
+    "y": "2832.0625572601243",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Cache-Control"
+    }
+   ],
+   "extraHtml": null
+  },
+  "yHmHXymPNWwu8p1vvqD3o": {
+   "type": "paragraph",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "45.74718479195076",
+    "y": "-284.90106699547107",
+    "w": "355",
+    "h": "140.5",
+    "rx": "5",
+    "fill": "#FFFFFf",
+    "stroke": "#ffffff",
+    "strokeWidth": "2.5",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": "62.99718479195076",
+     "y": "-256.15106699547107",
+     "dx": null,
+     "dy": "0",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "Find the detailed version of this roadmap"
+    },
+    {
+     "x": "62.99718479195076",
+     "y": "-256.15106699547107",
+     "dx": null,
+     "dy": "25.5",
+     "anchor": "start",
+     "baseline": "middle",
+     "fontSize": "17",
+     "fill": null,
+     "content": "along with other similar roadmaps"
+    }
+   ],
+   "extraHtml": null
+  },
+  "2zqZkyVgigifcRS1H7F_b": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "59.050559204750904",
+    "y": "-202.8155035777258",
+    "w": "327.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#e3e3e3",
+    "stroke": "#e3e3e3",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "roadmap.sh"
+    }
+   ],
+   "extraHtml": null
+  },
+  "RcC1fVuePQZ59AsJfeTdR": {
+   "type": "subtopic",
+   "title": "Claude Code",
+   "parentId": "ipcNHz8KbfpE57kNP15hP",
+   "parentTitle": "AI Assisted Coding",
+   "rect": {
+    "x": "-651.8286501592424",
+    "y": "823.7710937030621",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Claude Code"
+    }
+   ],
+   "extraHtml": null
+  },
+  "HQrxxDxKN8gizvXRU5psW": {
+   "type": "subtopic",
+   "title": "Copilot",
+   "parentId": "ipcNHz8KbfpE57kNP15hP",
+   "parentTitle": "AI Assisted Coding",
+   "rect": {
+    "x": "-651.8286501592424",
+    "y": "929.7710937030621",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Copilot"
+    }
+   ],
+   "extraHtml": null
+  },
+  "CKlkVK_7GZ7xzIUHJqZr8": {
+   "type": "subtopic",
+   "title": "Cursor",
+   "parentId": "ipcNHz8KbfpE57kNP15hP",
+   "parentTitle": "AI Assisted Coding",
+   "rect": {
+    "x": "-651.8286501592424",
+    "y": "876.7710937030621",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Cursor"
+    }
+   ],
+   "extraHtml": null
+  },
+  "E7-LveK7jO2npxVTLUDfw": {
+   "type": "subtopic",
+   "title": "Antigravity",
+   "parentId": "ipcNHz8KbfpE57kNP15hP",
+   "parentTitle": "AI Assisted Coding",
+   "rect": {
+    "x": "-651.8286501592424",
+    "y": "982.7710937030621",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Antigravity"
+    }
+   ],
+   "extraHtml": null
+  },
+  "yKNdBbahm_h81xdMDT-qx": {
+   "type": "subtopic",
+   "title": "How LLMs work",
+   "parentId": "UTupdqjOyLh7-56_0SXJ8",
+   "parentTitle": "Learn the Basics",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "962.923788906631",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "How LLMs work"
+    }
+   ],
+   "extraHtml": null
+  },
+  "IZKl6PxbvgNkryAkdy3-p": {
+   "type": "subtopic",
+   "title": "AI vs Traditional Coding",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "1015.923788906631",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "AI vs Traditional Coding"
+    }
+   ],
+   "extraHtml": null
+  },
+  "0TMdly8yiqnNR8sx36iqc": {
+   "type": "subtopic",
+   "title": "Code Reviews",
+   "parentId": "Nx7mjvYgqLpmJ0_iSx5of",
+   "parentTitle": "Applications",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "1171.1637243924067",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Code Reviews"
+    }
+   ],
+   "extraHtml": null
+  },
+  "q7NpwqQXUp4wt2to-yFiP": {
+   "type": "subtopic",
+   "title": "Docs Generation",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "1277.1637243924067",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Docs Generation"
+    }
+   ],
+   "extraHtml": null
+  },
+  "UTupdqjOyLh7-56_0SXJ8": {
+   "type": "topic",
+   "title": "Learn the Basics",
+   "parentId": "M56-ufyFSwaQYPISuwUcj",
+   "parentTitle": "AI in Development",
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "863.923788906631",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Learn the Basics"
+    }
+   ],
+   "extraHtml": null
+  },
+  "ipcNHz8KbfpE57kNP15hP": {
+   "type": "topic",
+   "title": "AI Assisted Coding",
+   "parentId": "eXezX7CVNyC1RuyU_I4yP",
+   "parentTitle": "Learn a Framework",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "901.6929110844087",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "AI Assisted Coding"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Gv_g4gK6pZK6l_0xAn34X": {
+   "type": "topic",
+   "title": "Prompting Techniques",
+   "parentId": "ipcNHz8KbfpE57kNP15hP",
+   "parentTitle": "AI Assisted Coding",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "1065.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Prompting Techniques"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Bic4PHhz-YqzPWRimJO83": {
+   "type": "subtopic",
+   "title": "Gemini",
+   "parentId": "MdYPIf_9ezbIp6Dm5Fyme",
+   "parentTitle": "Implementing AI",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1260.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Gemini"
+    }
+   ],
+   "extraHtml": null
+  },
+  "-ye5ZtYFDoYGpj-UJaBP8": {
+   "type": "subtopic",
+   "title": "OpenAI",
+   "parentId": "MdYPIf_9ezbIp6Dm5Fyme",
+   "parentTitle": "Implementing AI",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1313.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "OpenAI"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Lw2nR7x8PYgq1P5CxPAxi": {
+   "type": "subtopic",
+   "title": "Anthropic",
+   "parentId": "MdYPIf_9ezbIp6Dm5Fyme",
+   "parentTitle": "Implementing AI",
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1366.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Anthropic"
+    }
+   ],
+   "extraHtml": null
+  },
+  "MdYPIf_9ezbIp6Dm5Fyme": {
+   "type": "topic",
+   "title": "Implementing AI",
+   "parentId": "xL8d-uHMpJKwUvT8z-Jia",
+   "parentTitle": "Skills",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "1366.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Implementing AI"
+    }
+   ],
+   "extraHtml": null
+  },
+  "M56-ufyFSwaQYPISuwUcj": {
+   "type": "label",
+   "title": null,
+   "parentId": "eXezX7CVNyC1RuyU_I4yP",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "AI in Development"
+    }
+   ],
+   "extraHtml": null
+  },
+  "EYT2rTLZ8tUW2u8DOnAWF": {
+   "type": "subtopic",
+   "title": "Refactoring",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "1224.1637243924067",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Refactoring"
+    }
+   ],
+   "extraHtml": null
+  },
+  "Nx7mjvYgqLpmJ0_iSx5of": {
+   "type": "subtopic",
+   "title": "Applications",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "160.84718479195075",
+    "y": "1068.9237889066308",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#ffe599",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #f3c950"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Applications"
+    }
+   ],
+   "extraHtml": null
+  },
+  "k4hMVVBMatedUq5EKiMo4": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1063.0623796484322",
+    "w": "237.3",
+    "h": "50.3",
+    "rx": "5",
+    "fill": "#2a79e4",
+    "stroke": "#2a79e4",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Prompt Engineering"
+    }
+   ],
+   "extraHtml": null
+  },
+  "vpimgXt10UQFBDVHR21IU": {
+   "type": "button",
+   "title": null,
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-650.7403733522699",
+    "y": "1156.0623796484322",
+    "w": "237.3",
+    "h": "50.3",
+    "rx": "5",
+    "fill": "#2a79e4",
+    "stroke": "#2a79e4",
+    "strokeWidth": "2.7",
+    "style": null
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "AI Agents Roadmap"
+    }
+   ],
+   "extraHtml": null
+  },
+  "e4j6u0e_WqK1vfrUwJJ4M": {
+   "type": "topic",
+   "title": "Agents",
+   "parentId": "Gv_g4gK6pZK6l_0xAn34X",
+   "parentTitle": "Prompting Techniques",
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "1158.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Agents"
+    }
+   ],
+   "extraHtml": null
+  },
+  "XFy2gj7DmXeaCoc6MZo_j": {
+   "type": "topic",
+   "title": "MCP",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "1211.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "MCP"
+    }
+   ],
+   "extraHtml": null
+  },
+  "xL8d-uHMpJKwUvT8z-Jia": {
+   "type": "topic",
+   "title": "Skills",
+   "parentId": null,
+   "parentTitle": null,
+   "rect": {
+    "x": "-235.60655064838832",
+    "y": "1264.0623796484322",
+    "w": "237.3",
+    "h": "46.3",
+    "rx": "5",
+    "fill": "#fdff00",
+    "stroke": "black",
+    "strokeWidth": "2.7",
+    "style": "--hover-color: #d6d700"
+   },
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Skills"
+    }
+   ],
+   "extraHtml": null
+  },
+  "flwf3QbJioovtOpMw4obo": {
+   "type": "label",
+   "title": null,
+   "parentId": "MdYPIf_9ezbIp6Dm5Fyme",
+   "parentTitle": null,
+   "rect": null,
+   "texts": [
+    {
+     "x": null,
+     "y": null,
+     "dx": null,
+     "dy": null,
+     "anchor": null,
+     "baseline": null,
+     "fontSize": null,
+     "fill": null,
+     "content": "Advanced Frontend"
+    }
+   ],
+   "extraHtml": null
+  }
+ },
+ "edges": {
+  "tNkdpQjYu72eFK9f_W0RO": {
+   "d": "M-116.95655064838832,-32.59925177765109 C-116.95655064838832,17.835527822125528 -116.95655064838832,17.835527822125528 -116.95655064838832,68.27030742190215",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "ronTDxAvatzbk4n5a-McM": {
+   "d": "M3.0434493516116845,92.77030742190215 C44.64223808161799,92.77030742190215 44.64223808161799,-70.22969257809785 86.2410268116243,-70.22969257809785",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "gaNQ1Peug0eiN0Bfxhtgw": {
+   "d": "M3.0434493516116845,92.77030742190215 C44.64223808161799,92.77030742190215 44.64223808161799,-16.229692578097854 86.2410268116243,-16.229692578097854",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "351utcB2QNjRmDe5bmcD1": {
+   "d": "M3.0434493516116845,92.77030742190215 C44.64223808161799,92.77030742190215 44.64223808161799,37.770307421902146 86.2410268116243,37.770307421902146",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "lupNr9zUQ0sXyzPBxcglQ": {
+   "d": "M3.0434493516116845,92.77030742190215 C44.64223808161799,92.77030742190215 44.64223808161799,91.77030742190215 86.2410268116243,91.77030742190215",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "2IVWwbU20VSU47qjiVU-f": {
+   "d": "M3.0434493516116845,92.77030742190215 C44.64223808161799,92.77030742190215 44.64223808161799,145.77030742190215 86.2410268116243,145.77030742190215",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "9MbeqIRipRgbe34jwalxo": {
+   "d": "M3.0434493516116845,92.77030742190215 C44.64223808161799,92.77030742190215 44.64223808161799,199.77030742190215 86.2410268116243,199.77030742190215",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "reactflow__edge-ruoFa3M4bUE3Dg6GXSiUIx2-Hk8AVonOd693_y1sykPqdw1": {
+   "d": "M-532.0903733522699,3018.724470475211 C-532.0903733522699,3044.9828540774324 -532.0903733522699,3044.9828540774324 -532.0903733522699,3071.2412376796533",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__VlNNwIEDWqQXtqkHWJYzCx2-yWG2VUkaF5IJVVut6AiSyw1": {
+   "d": "M-116.95655064838832,117.27030742190215 C-116.95655064838832,147.77030742190215 -116.95655064838832,147.77030742190215 -116.95655064838832,178.27030742190215",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ODcfFEorkfJNupoQygM53x2-NIY7c4TQEEHx0hATu-k5Cw1": {
+   "d": "M-116.95655064838832,333.27030742190215 C-116.95655064838832,358.8806200818468 -116.95655064838832,358.8806200818468 -116.95655064838832,384.49093274179154",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__NIY7c4TQEEHx0hATu-k5Cy2-R_I4SGYqLk5zze5I1zS_Ez1": {
+   "d": "M-236.95655064838832,408.99093274179154 C-324.5234620003291,408.99093274179154 -324.5234620003291,408.99093274179154 -412.0903733522699,408.99093274179154",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__MXnFhZlNB1zTsBFDyni9Hy2-qmTVMJDsEhNIkiwE_UTYuz2": {
+   "d": "M-236.95655064838832,461.99093274179154 C-324.5234620003291,461.99093274179154 -324.5234620003291,461.99093274179154 -412.0903733522699,461.99093274179154",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__MXnFhZlNB1zTsBFDyni9Hz2-IqvS1V-98cxko3e9sBQgPy1": {
+   "d": "M3.0434493516116845,461.99093274179154 C82.61152226243462,461.99093274179154 82.61152226243462,461.99093274179154 162.17959517325755,461.99093274179154",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__IqvS1V-98cxko3e9sBQgPx2-XDTD8el6OwuQ55wC-X4iVw1": {
+   "d": "M282.17959517325755,486.49093274179154 C282.17959517325755,517.1078812889272 282.17959517325755,517.1078812889272 282.17959517325755,547.7248298360628",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__XDTD8el6OwuQ55wC-X4iVx2-eghnfG4p7i-EDWfp3CQXCw2": {
+   "d": "M282.17959517325755,596.7248298360628 C282.17959517325755,614.9975686289824 282.17959517325755,614.9975686289824 282.17959517325755,633.2703074219021",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__DI8pvEosrUU7lcaGa7-Kcx2-eXezX7CVNyC1RuyU_I4yPw1": {
+   "d": "M-116.95655064838832,666.2703074219021 C-116.95655064838832,702.667569314612 -116.95655064838832,702.667569314612 -116.95655064838832,739.064831207322",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__hkSc_1x09m7-7BO7WzlDTx2-0Awx3zEI5_gYEIrD7IVX6w2": {
+   "d": "M-113.70798467806267,1533.5557520139007 C-113.70798467806267,1556.826191436914 -113.70798467806267,1556.826191436914 -113.70798467806267,1580.0966308599275",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__RDWbG3Iui6IPgp0shvXtgw2-JanR7I_lNnUCXhCMGLdn-x1": {
+   "d": "M279.49718479195076,2077.114686047012 C279.49718479195076,2043.4229265428785 279.49718479195076,2043.4229265428785 279.49718479195076,2009.731167038745",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__RDWbG3Iui6IPgp0shvXtgx2-Cxspmb14_0i1tfw-ZLxEuw2": {
+   "d": "M279.49718479195076,2126.114686047012 C279.49718479195076,2212.60362928108 279.49718479195076,2212.60362928108 279.49718479195076,2299.092572515148",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__Cxspmb14_0i1tfw-ZLxEuy2-a8oOlkyM_C8vHuHqeiOAKz1": {
+   "d": "M159.49718479195076,2323.592572515148 C120.38761779705226,2323.592572515148 120.38761779705226,2323.592572515148 81.27805080215374,2323.592572515148",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__Cxspmb14_0i1tfw-ZLxEux2-n0q32YhWEIAUwbGXexoqVw1": {
+   "d": "M279.49718479195076,2348.092572515148 C279.49718479195076,2422.534966180013 279.49718479195076,2422.534966180013 279.49718479195076,2496.977359844878",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__n0q32YhWEIAUwbGXexoqVx2-iUxXq7beg55y76dkwhM13w2": {
+   "d": "M279.49718479195076,2545.977359844878 C279.49718479195076,2577.8777947187937 279.49718479195076,2577.8777947187937 279.49718479195076,2609.778229592709",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ap4h4v5Sr4jBH3GwWSH8xz2-JWU9jc12_ewaIKt3qWLcpy1": {
+   "d": "M-412.0903733522699,2800.2125572601244 C-322.8991790151663,2800.2125572601244 -322.8991790151663,2749.2125572601244 -233.70798467806267,2749.2125572601244",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ap4h4v5Sr4jBH3GwWSH8xz2-dz7_QXoO7X0WmS5xuAhhJy1": {
+   "d": "M-412.0903733522699,2800.2125572601244 C-322.8991790151663,2800.2125572601244 -322.8991790151663,2696.2125572601244 -233.70798467806267,2696.2125572601244",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ap4h4v5Sr4jBH3GwWSH8xz2-66ya3WdtlkjQyBTc3Leiny1": {
+   "d": "M-412.0903733522699,2800.2125572601244 C-322.8991790151663,2800.2125572601244 -322.8991790151663,2802.2125572601244 -233.70798467806267,2802.2125572601244",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ap4h4v5Sr4jBH3GwWSH8xz2-FyNXhHq1VIASNq-LI7JIuy1": {
+   "d": "M-412.0903733522699,2800.2125572601244 C-322.8991790151663,2800.2125572601244 -322.8991790151663,2908.2125572601244 -233.70798467806267,2908.2125572601244",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ruoFa3M4bUE3Dg6GXSiUIz2-L7AllJfKvClaam3y-u6DPy1": {
+   "d": "M-412.0903733522699,2994.224470475211 C-323.3780483778115,2994.224470475211 -323.3780483778115,2994.224470475211 -234.66572340335313,2994.224470475211",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__PoM77O2OtxPELxfrW1wtlx2-VOGKiG2EZVfCBAaa7Df0Ww2": {
+   "d": "M279.49718479195076,3166.347585709834 C279.49718479195076,3208.5525844226822 279.49718479195076,3208.5525844226822 279.49718479195076,3250.75758313553",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__NQ95TJCe3E1IwEuBa__D6x2-6kWlgayUZQnr9z88fUOkkw1": {
+   "d": "M-113.70798467806267,2545.977359844878 C-113.70798467806267,2567.8777947187937 -113.70798467806267,2567.8777947187937 -113.70798467806267,2589.778229592709",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__6d8cjWZ4BuUjwT0seiuzJz2-tWDmeXItfQDxB8Jij_V4Ly1": {
+   "d": "M-412.0903733522699,2800.2125572601244 C-322.8991790151663,2800.2125572601244 -322.8991790151663,2855.2125572601244 -233.70798467806267,2855.2125572601244",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__VOGKiG2EZVfCBAaa7Df0Wx2-dsTegXTyupjS8iU6I7Xivw1": {
+   "d": "M279.49718479195076,3299.75758313553 C279.49718479195076,3322.429557852588 279.49718479195076,3322.429557852588 279.49718479195076,3345.1015325696467",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__KMA7NkxFbPoUDtFnGBFnjz2-VOGKiG2EZVfCBAaa7Df0Wy1": {
+   "d": "M6.292015321937328,3275.25758313553 C82.89460005694404,3275.25758313553 82.89460005694404,3275.25758313553 159.49718479195076,3275.25758313553",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__MdYPIf_9ezbIp6Dm5Fymey2-Bic4PHhz-YqzPWRimJO83z1": {
+   "d": "M-236.95655064838832,1389.2123796484323 C-324.5234620003291,1389.2123796484323 -324.5234620003291,1283.2123796484323 -412.0903733522699,1283.2123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__MdYPIf_9ezbIp6Dm5Fymey2--ye5ZtYFDoYGpj-UJaBP8z1": {
+   "d": "M-236.95655064838832,1389.2123796484323 C-324.5234620003291,1389.2123796484323 -324.5234620003291,1336.2123796484323 -412.0903733522699,1336.2123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__MdYPIf_9ezbIp6Dm5Fymey2-Lw2nR7x8PYgq1P5CxPAxiz1": {
+   "d": "M-236.95655064838832,1389.2123796484323 C-324.5234620003291,1389.2123796484323 -324.5234620003291,1389.2123796484323 -412.0903733522699,1389.2123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__xL8d-uHMpJKwUvT8z-Jiax2-MdYPIf_9ezbIp6Dm5Fymew2": {
+   "d": "M-116.95655064838832,1311.7123796484323 C-116.95655064838832,1338.2123796484323 -116.95655064838832,1338.2123796484323 -116.95655064838832,1364.7123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__Gv_g4gK6pZK6l_0xAn34Xx2-e4j6u0e_WqK1vfrUwJJ4Mw2": {
+   "d": "M-116.95655064838832,1112.7123796484323 C-116.95655064838832,1134.7123796484323 -116.95655064838832,1134.7123796484323 -116.95655064838832,1156.7123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__eXezX7CVNyC1RuyU_I4yPz2-flwf3QbJioovtOpMw4oboy1": {
+   "d": "M3.0434493516116845,763.564831207322 C95.77031707178122,763.564831207322 95.77031707178122,763.564831207322 188.49718479195076,763.564831207322",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "80dkO5pGnkuPx2N_LA5ao": {
+   "d": "M279.49718479195076,911.573788906631 C279.49718479195076,936.573788906631 279.49718479195076,936.573788906631 279.49718479195076,961.573788906631",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__flwf3QbJioovtOpMw4obox2-UTupdqjOyLh7-56_0SXJ8w1": {
+   "d": "M279.49718479195076,784.564831207322 C279.49718479195076,823.5693100569765 279.49718479195076,823.5693100569765 279.49718479195076,862.573788906631",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__Nx7mjvYgqLpmJ0_iSx5ofx2-0TMdly8yiqnNR8sx36iqcw1": {
+   "d": "M279.49718479195076,1116.5737889066309 C279.49718479195076,1143.193756649519 279.49718479195076,1143.193756649519 279.49718479195076,1169.8137243924068",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ipcNHz8KbfpE57kNP15hPy2-CKlkVK_7GZ7xzIUHJqZr8z1": {
+   "d": "M-236.95655064838832,924.8429110844087 C-325.0676004038154,924.8429110844087 -325.0676004038154,899.9210937030621 -413.17865015924247,899.9210937030621",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ipcNHz8KbfpE57kNP15hPy2-E7-LveK7jO2npxVTLUDfwz1": {
+   "d": "M-236.95655064838832,924.8429110844087 C-325.0676004038154,924.8429110844087 -325.0676004038154,1005.9210937030621 -413.17865015924247,1005.9210937030621",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ipcNHz8KbfpE57kNP15hPy2-RcC1fVuePQZ59AsJfeTdRz1": {
+   "d": "M-236.95655064838832,924.8429110844087 C-325.0676004038154,924.8429110844087 -325.0676004038154,846.9210937030621 -413.17865015924247,846.9210937030621",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ipcNHz8KbfpE57kNP15hPy2-HQrxxDxKN8gizvXRU5psWz1": {
+   "d": "M-236.95655064838832,924.8429110844087 C-325.0676004038154,924.8429110844087 -325.0676004038154,952.9210937030621 -413.17865015924247,952.9210937030621",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__eXezX7CVNyC1RuyU_I4yPx2-ipcNHz8KbfpE57kNP15hPw2": {
+   "d": "M-116.95655064838832,788.064831207322 C-116.95655064838832,844.2038711458654 -116.95655064838832,844.2038711458654 -116.95655064838832,900.3429110844087",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ipcNHz8KbfpE57kNP15hPx2-Gv_g4gK6pZK6l_0xAn34Xw2": {
+   "d": "M-116.95655064838832,949.3429110844087 C-116.95655064838832,1006.5276453664205 -116.95655064838832,1006.5276453664205 -116.95655064838832,1063.7123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__Gv_g4gK6pZK6l_0xAn34Xy2-k4hMVVBMatedUq5EKiMo4z1": {
+   "d": "M-236.95655064838832,1088.2123796484323 C-324.5234620003291,1088.2123796484323 -324.5234620003291,1088.2123796484323 -412.0903733522699,1088.2123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__vpimgXt10UQFBDVHR21IUz2-e4j6u0e_WqK1vfrUwJJ4My1": {
+   "d": "M-412.0903733522699,1181.2123796484323 C-324.5234620003291,1181.2123796484323 -324.5234620003291,1181.2123796484323 -236.95655064838832,1181.2123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__MdYPIf_9ezbIp6Dm5Fymez2-flwf3QbJioovtOpMw4oboy2": {
+   "d": "M3.0434493516116845,1389.2123796484323 C93.02031707178122,1389.2123796484323 93.02031707178122,1389.2123796484323 182.99718479195076,1389.2123796484323",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "gDaHwD02syERRV6JY77PH": {
+   "d": "M279.49718479195076,1533.5557520139007 C279.49718479195076,1558.5557520139007 279.49718479195076,1558.5557520139007 279.49718479195076,1583.5557520139007",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__flwf3QbJioovtOpMw4obox2-9VcGfDBBD8YcKatj4VcH1w1": {
+   "d": "M279.49718479195076,1410.2123796484323 C279.49718479195076,1447.3840658311665 279.49718479195076,1447.3840658311665 279.49718479195076,1484.5557520139007",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__9VcGfDBBD8YcKatj4VcH1y2-hkSc_1x09m7-7BO7WzlDTz2": {
+   "d": "M159.4971847919508,1509.0557520139007 C82.89460005694406,1509.0557520139007 82.89460005694406,1509.0557520139007 6.292015321937328,1509.0557520139007",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__hkSc_1x09m7-7BO7WzlDTy2-U5mD5FmVx7VWeKxDpQxB5z1": {
+   "d": "M-233.70798467806267,1509.0557520139007 C-322.8991790151663,1509.0557520139007 -322.8991790151663,1509.0557520139007 -412.0903733522699,1509.0557520139007",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__U5mD5FmVx7VWeKxDpQxB5x2-igg4_hb3XE3vuvY8ufV-4w1": {
+   "d": "M-532.0903733522699,1533.5557520139007 C-532.0903733522699,1693.1338022933658 -532.0903733522699,1693.1338022933658 -532.0903733522699,1852.7118525728308",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__igg4_hb3XE3vuvY8ufV-4x2-hVQ89f6G0LXEgHIOKHDYqw2": {
+   "d": "M-532.0903733522699,1901.7118525728308 C-532.0903733522699,1920.1498339748873 -532.0903733522699,1920.1498339748873 -532.0903733522699,1938.5878153769438",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ydZRVWQrJUl3LZfjhR8QTx2-3HgiMfqihjWceSxd6ei8sw1": {
+   "d": "M-116.95655064838832,2013.9769147243353 C-116.95655064838832,2045.5458003856738 -116.95655064838832,2045.5458003856738 -116.95655064838832,2077.114686047012",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__3HgiMfqihjWceSxd6ei8sz2-RDWbG3Iui6IPgp0shvXtgy1": {
+   "d": "M3.0434493516116845,2101.614686047012 C81.27031707178122,2101.614686047012 81.27031707178122,2101.614686047012 159.49718479195076,2101.614686047012",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__n0q32YhWEIAUwbGXexoqVy2-NQ95TJCe3E1IwEuBa__D6z2": {
+   "d": "M159.49718479195076,2521.477359844878 C82.89460005694404,2521.477359844878 82.89460005694404,2521.477359844878 6.292015321937328,2521.477359844878",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__NQ95TJCe3E1IwEuBa__D6y2-A1ZUy16cVRYqmHxoCtUb0z2": {
+   "d": "M-233.70798467806267,2521.477359844878 C-322.8991790151663,2521.477359844878 -322.8991790151663,2521.477359844878 -412.0903733522699,2521.477359844878",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__A1ZUy16cVRYqmHxoCtUb0x2-ap4h4v5Sr4jBH3GwWSH8xw1": {
+   "d": "M-532.0903733522699,2545.977359844878 C-532.0903733522699,2586.3777947187937 -532.0903733522699,2586.3777947187937 -532.0903733522699,2626.778229592709",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__ap4h4v5Sr4jBH3GwWSH8xx2-6d8cjWZ4BuUjwT0seiuzJw2": {
+   "d": "M-532.0903733522699,2675.778229592709 C-532.0903733522699,2725.7453934264167 -532.0903733522699,2725.7453934264167 -532.0903733522699,2775.7125572601244",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__L7AllJfKvClaam3y-u6DPx2-5eUbDdOTOfaOhUlZAmmXWw1": {
+   "d": "M-114.66572340335313,3018.724470475211 C-114.66572340335313,3044.147515927188 -114.66572340335313,3044.147515927188 -114.66572340335313,3069.570561379165",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__KMA7NkxFbPoUDtFnGBFnjy2-mQHpSyMR4Rra4mqAslgiSz1": {
+   "d": "M-233.70798467806267,3275.25758313553 C-321.9388506791955,3275.25758313553 -321.9388506791955,3275.25758313553 -410.1697166803284,3275.25758313553",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__KMA7NkxFbPoUDtFnGBFnjy2-GJctl0tVXe4B70s35RkLTz1": {
+   "d": "M-233.70798467806267,3275.25758313553 C-321.9388506791955,3275.25758313553 -321.9388506791955,3328.25758313553 -410.1697166803284,3328.25758313553",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__KMA7NkxFbPoUDtFnGBFnjy2-2MRvAK9G9RGM_auWytcKhz1": {
+   "d": "M-233.70798467806267,3275.25758313553 C-321.9388506791955,3275.25758313553 -321.9388506791955,3381.25758313553 -410.1697166803284,3381.25758313553",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0.8 8",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__6d8cjWZ4BuUjwT0seiuzJx2-ruoFa3M4bUE3Dg6GXSiUIw2": {
+   "d": "M-532.0903733522699,2824.7125572601244 C-532.0903733522699,2897.2185138676678 -532.0903733522699,2897.2185138676678 -532.0903733522699,2969.724470475211",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__L7AllJfKvClaam3y-u6DPz2-e-k6EhoxYG9h0x6vWOrDhy1": {
+   "d": "M5.334276596646873,2994.224470475211 C82.41573069429882,2994.224470475211 82.41573069429882,2994.224470475211 159.49718479195076,2994.224470475211",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  },
+  "xy-edge__e-k6EhoxYG9h0x6vWOrDhx2-PoM77O2OtxPELxfrW1wtlw2": {
+   "d": "M279.49718479195076,3018.724470475211 C279.49718479195076,3068.0360280925224 279.49718479195076,3068.0360280925224 279.49718479195076,3117.347585709834",
+   "stroke": "#2b78e4",
+   "strokeWidth": "3.5",
+   "strokeDasharray": "0",
+   "strokeLinecap": "round",
+   "markerEnd": null
+  }
+ },
+ "svgViewBox": "-675 -312 1097 3995",
+ "font": "font-family: balsamiq, sans-serif;",
+ "legend": "<g data-node-id=\"qN-6iiXWgn5qSzK3o0Tjo\" data-type=\"legend\"><rect x=\"-653.5314218617622\" y=\"-290.7454122270983\" width=\"370.3\" height=\"122.3\" rx=\"5\" fill=\"white\" stroke=\"black\" stroke-width=\"2.7\"></rect><g data-node-id=\"NJhQIvMyMD1Cu-JA1UCmJ\" data-type=\"legend-item\" data-parent-id=\"qN-6iiXWgn5qSzK3o0Tjo\"><circle cx=\"-619.3814218617622\" cy=\"-263.59541222709834\" r=\"9.5\" fill=\"#874efe\" zIndex=\"1\" id=\"icon-link\"></circle><path d=\"M-623.3814218617622 -263.59541222709834L-620.8814218617622 -260.59541222709834 -615.8814218617622 -265.59541222709834\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><text x=\"-601.8814218617622\" y=\"-261.09541222709834\" text-anchor=\"left\" dominant-baseline=\"middle\" font-size=\"16\" fill=\"black\"><tspan>Personal Recommendation</tspan></text></g><g data-node-id=\"DMx7rAjVBWMbzjSde-tvp\" data-type=\"legend-item\" data-parent-id=\"qN-6iiXWgn5qSzK3o0Tjo\"><circle cx=\"-619.3814218617622\" cy=\"-231.59541222709834\" r=\"9.5\" fill=\"#4f7a28\" zIndex=\"1\" id=\"icon-link\"></circle><path d=\"M-623.3814218617622 -231.59541222709834L-620.8814218617622 -228.59541222709834 -615.8814218617622 -233.59541222709834\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><text x=\"-601.8814218617622\" y=\"-229.09541222709834\" text-anchor=\"left\" dominant-baseline=\"middle\" font-size=\"16\" fill=\"black\"><tspan>Alternative Option</tspan></text></g><g data-node-id=\"R9WLhURhPdVNXP7AUTDvR\" data-type=\"legend-item\" data-parent-id=\"qN-6iiXWgn5qSzK3o0Tjo\"><circle cx=\"-619.3814218617622\" cy=\"-199.59541222709834\" r=\"9.5\" fill=\"#929292\" zIndex=\"1\" id=\"icon-link\"></circle><path d=\"M-623.3814218617622 -199.59541222709834L-620.8814218617622 -196.59541222709834 -615.8814218617622 -201.59541222709834\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><text x=\"-601.8814218617622\" y=\"-197.09541222709834\" text-anchor=\"left\" dominant-baseline=\"middle\" font-size=\"16\" fill=\"black\"><tspan>Order not strict on roadmap</tspan></text></g></g>"
+}

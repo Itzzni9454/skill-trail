@@ -1,0 +1,35 @@
+name: Feature request
+description: Suggest an idea or improvement.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the need or friction, not just the solution.
+      placeholder: When studying several roadmaps I can't tell which topics…
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      placeholder: Add a filter to the Universe view that…
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any workarounds or other approaches you thought about.
+    validations:
+      required: false
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Project constraints
+      description: This project values offline operation and a tiny dependency footprint.
+      options:
+        - label: This works fully offline (no required network call at runtime).
+        - label: This can be done without adding a new runtime dependency.
